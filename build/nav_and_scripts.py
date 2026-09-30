@@ -113,9 +113,9 @@ def get_header_and_drawer():
 
         <!-- Drawer Footer Stats -->
         <div class="drawer-footer">
-          <div class="drawer-stat">68.5 KM PR TRAILS</div>
+          <div class="drawer-stat">42.5 MILES PR TRAILS</div>
           <div class="drawer-stat">•</div>
-          <div class="drawer-stat">+3,450M ASCENT</div>
+          <div class="drawer-stat">+11,320 FT ASCENT</div>
           <div class="drawer-stat">•</div>
           <div class="drawer-stat">4 MICROCLIMATES</div>
         </div>
@@ -468,10 +468,10 @@ def get_script():
         {
           id: 0,
           label: "Master Island Overview",
-          title: "Madeira Alpine & Coastal Route (68.5 km)",
+          title: "Madeira Alpine & Coastal Route (42.5 mi / 68.5 km)",
           desc: "High volcanic ridges above cloud seas, emerald levada gorges, ancient laurel mist forests, and volcanic lava basins across 4 distinct microclimates.",
-          distance: "68.5 km across 5 Premier PR Trails",
-          elevation: "+3,450 m Cumulative Volcanic Ascent",
+          distance: "42.5 Miles (68.5 km) across 5 Premier PR Trails",
+          elevation: "+11,320 ft (+3,450m) Cumulative Ascent",
           route: "Arieiro-Ruivo (PR1), Caldeirão Verde (PR9), 25 Fontes (PR6), São Lourenço (PR8)",
           lodging: "Clean, Quiet 3★/4★ Inns, Boutique Hotels & Historic Quintas",
           transfer: "Compact Turbo Rental Car • Full Island Expressway Network",
@@ -482,9 +482,9 @@ def get_script():
           id: 1,
           label: "PR8 • Eastern Peninsula",
           title: "Ponta de São Lourenço Dragon's Tail",
-          desc: "7.2 km out-and-back trek across dramatic ochre sea cliffs plunging into crashing Atlantic surf. Zero trees, intense wind and sun exposure.",
-          distance: "7.2 km • 3.0 – 3.5 Hours Duration (08:30 Start)",
-          elevation: "+320 m Ascent / -320 m Descent",
+          desc: "4.5 miles (7.2 km) out-and-back trek across dramatic ochre sea cliffs plunging into crashing Atlantic surf. Zero trees, intense wind and sun exposure.",
+          distance: "4.5 Miles (7.2 km) • 3.0 – 3.5 Hours Duration (08:30 Start)",
+          elevation: "+1,050 ft (+320m) Ascent / -1,050 ft (-320m)",
           route: "Volcanic Basalt Ridges & Stairway to Ponta do Furado",
           lodging: "White Waters Hotel (Machico Bay)",
           transfer: "Lunch: Caniçal Harbor Lapas & Prainha Volcanic Beach",
@@ -496,9 +496,9 @@ def get_script():
           label: "PR1 • High Central Massif",
           title: "Pico do Arieiro to Pico Ruivo Master Ridge",
           desc: "The crown jewel alpine trek of the Atlantic. Carved cliff tunnels, razor ridges, and dizzying vertical staircases above a sea of clouds.",
-          distance: "12.0 km Out-and-Back • 5.5 – 6.0 Hours",
-          elevation: "+1,050 m Ascent / -1,050 m Descent",
-          route: "Ninho da Manta, Pedra Rija, Basalt Tunnels, Ruivo Summit",
+          distance: "7.5 Miles (12.0 km) Out-and-Back • 5.5 – 6.0 Hours",
+          elevation: "+3,450 ft (+1,050m) Ascent / -3,450 ft (-1,050m)",
+          route: "Ninho da Manta, Pedra Rija, Basalt Tunnels, Ruivo Summit (6,109 ft)",
           lodging: "Quinta do Furão (Santana Cliff Vineyard Estate)",
           transfer: "Sunrise at Miradouro do Juncal (07:15 AM) • Taxi Backup",
           alltrailsLink: "https://www.alltrails.com/trail/portugal/madeira/pr1-vereda-do-areeiro-pico-ruivo",
@@ -508,9 +508,9 @@ def get_script():
           id: 3,
           label: "PR9 • Laurissilva Rainforest",
           title: "Levada do Caldeirão Verde (Green Cauldron)",
-          desc: "12.0 km round-trip flat levada hike deep into the UNESCO Laurissilva rainforest, passing 4 unlit rock tunnels to a roaring 100m waterfall amphitheater.",
-          distance: "12.0 km Round Trip • 3.5 – 4.0 Hours",
-          elevation: "+100 m Gradual Aqueduct Grade",
+          desc: "7.5 miles (12.0 km) round-trip flat levada hike deep into the UNESCO Laurissilva rainforest, passing 4 unlit rock tunnels to a roaring 330-ft waterfall amphitheater.",
+          distance: "7.5 Miles (12.0 km) Round Trip • 3.5 – 4.0 Hours",
+          elevation: "+330 ft (+100m) Gradual Aqueduct Grade",
           route: "Queimadas Forest House, 4 Basalt Tunnels, Emerald Cauldron",
           lodging: "Quinta do Furão or Hotel Santana",
           transfer: "Lunch: Santana Thatched Palheiros & Mountain Soup",
@@ -521,9 +521,9 @@ def get_script():
           id: 4,
           label: "UNESCO Laurissilva • Fanal",
           title: "Fanal 500-Year-Old Ancient Mist Forest",
-          desc: "Grotesque, twisted 500-year-old Til trees draped in thick moss and mountain mist on the high volcanic plateau. Eerie, silent, and magical.",
-          distance: "4.0 – 8.0 km Exploration Stroll / PR14 Spur",
-          elevation: "+250 m Rolling High Plateau (1,150m alt)",
+          desc: "Grotesque, twisted 500-year-old Til trees draped in thick moss and mountain mist on the high volcanic plateau. Eerie, silent, and magical at 3,770 ft elevation.",
+          distance: "2.5 – 5.0 Miles (4–8 km) Exploration Stroll",
+          elevation: "+820 ft (+250m) • 3,770 ft (1,150m) Plateau Elevation",
           route: "Ancient Til Grove, Volcanic Crater & Levada dos Cedros",
           lodging: "Aqua Natura Bay (Porto Moniz Waterfront)",
           transfer: "Scenic ER209 Mountain Drive • Misty Cattle Pastures",
@@ -547,9 +547,9 @@ def get_script():
           id: 6,
           label: "PR6 • Rabaçal Valley",
           title: "25 Fontes Waterfall & Risco Cascades",
-          desc: "10.0 km circuit descending into the deep Rabaçal valley, tracing ancient stone levadas to the weeping spring basin and a 100m two-tiered waterfall.",
-          distance: "10.0 km Loop • 3.5 – 4.0 Hours (08:00 AM Start)",
-          elevation: "+350 m / -350 m Valley Descent & Return",
+          desc: "6.2 miles (10.0 km) circuit descending into the deep Rabaçal valley, tracing ancient stone levadas to the weeping spring basin and a 330-ft two-tiered waterfall.",
+          distance: "6.2 Miles (10.0 km) Loop • 3.5 – 4.0 Hours (08:00 AM Start)",
+          elevation: "+1,150 ft (+350m) Valley Descent & Climb",
           route: "Casa do Rabaçal, Levada do Risco, 25 Weeping Springs",
           lodging: "Return to Funchal (Hotel Porto Santa Maria)",
           transfer: "Paúl da Serra Plateau Scenic Highway ER110",
@@ -560,9 +560,9 @@ def get_script():
           id: 7,
           label: "South Coast Transit & Viewpoints",
           title: "Achadas da Cruz Cable Car & Cabo Girão Skywalk",
-          desc: "Riding an 84-degree vertical cliffside cable car down to an isolated coastal shelf, then walking 589 meters over the sea on a glass skywalk.",
+          desc: "Riding an 84-degree vertical cliffside cable car down 1,480 ft to an isolated coastal shelf, then walking 1,932 ft over the sea on a glass skywalk.",
           distance: "Coastal Transit & Viewpoint Strolls",
-          elevation: "451m Cable Car Drop / 589m Glass Cliff Platform",
+          elevation: "1,480 ft (451m) Cable Drop / 1,932 ft (589m) Skywalk",
           route: "Teleférico das Achadas da Cruz & Cabo Girão Skywalk",
           lodging: "Hotel Porto Santa Maria (Central Funchal Base)",
           transfer: "VR1 South Coast Expressway • Sunset in Funchal Harbor",
@@ -1102,4 +1102,4 @@ if __name__ == '__main__':
     hdr = get_header_and_drawer()
     ftr = get_footer()
     sc = get_script()
-    print("Nav and scripts generated successfully.")
+    print("Nav and scripts updated with American units.")

@@ -6,6 +6,7 @@
 * **Zero Alcohol:** Authentic Portuguese dining with zero wine, beer, or poncha. Feature fresh regional fruit juices (natural maracujá/passion fruit, orange), *Brisa Maracujá* soda, sparkling mineral waters (*Água das Pedras*), and espresso (*bica*).
 * **Ground Logistics:** Compact/mid-size rental car with adequate hill torque for Madeira's steep mountain switchbacks, or public express coaches/aerobus. No private chauffeured limousines or luxury yacht charters.
 * **Tipping Customs:** Adhere to Portuguese cultural reality: service is legally included in all prices; waiters receive standard wages; tipping is optional small change coin rounding (€1–€2) only.
+* **Measurement Units:** American units (miles, feet, °F, fluid oz) presented prominently across all metrics, waypoints, cards, and scorecard, with metric equivalents in parentheses where applicable.
 * **Visual Excellence:** Every single slide must include high-resolution, thematic photography (using real Unsplash and verified Wikimedia/official URLs), rich glassmorphism UI cards, gold/teal/terracotta accent borders, and clean typography.
 * **Mobile First:** Preserve the responsive mobile navigation drawer, native `<select>` slide pickers, and fluid flex/grid layouts.
 
@@ -54,3 +55,4 @@
 * **Mobile Responsiveness:** Native `<select>` pickers in header & footer, touch swipe handlers, drag-to-dismiss bottom sheet drawer.
 * **Zero Alcohol:** 100% compliant across all gastronomic slides (featuring *Sumo de Maracujá*, *Brisa Maracujá*, *Água das Pedras*, *bicas*).
 * **Shared Financials:** 100% compliant (strict shared total for 2 guests; zero per-person columns).
+* **American Units:** 100% converted across all 30 slides (miles, feet, °F, fluid oz prominent; metric in parentheses).

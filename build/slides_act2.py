@@ -20,7 +20,7 @@ def get_slides_act2():
               <ul class="highlight-list">
                 <li><strong>10:30 AM – 11:30 AM: Touchdown at FNC:</strong> Scenic descent past Ponta de São Lourenço onto the ocean stilt runway of Cristiano Ronaldo Airport (Santa Cruz). Seamless luggage collection.</li>
                 <li><strong>11:30 AM – 12:15 PM: Rental Car Collection:</strong> Pick up compact turbo hatchback at the terminal depot. Confirm mountain climbing torque and hill-assist functionality.</li>
-                <li><strong>12:30 PM – 13:00 PM: Scenic Expressway Transit:</strong> 20-minute drive west on the VR1 highway, popping through coastal tunnels with sparkling Atlantic ocean panoramas directly into central Funchal.</li>
+                <li><strong>12:30 PM – 13:00 PM: Scenic Expressway Transit:</strong> 12-mile (19.5 km) drive west on the VR1 coastal expressway (20 min), popping through tunnels with sparkling Atlantic ocean panoramas directly into central Funchal.</li>
                 <li><strong>14:00 PM – 17:30 PM: Historic Old Town Walk (Zona Velha):</strong> Stroll along the historic cobblestones of <em>Rua de Santa Maria</em>, discovering the celebrated "Portas Pintadas" (painted art doors on heritage homes).</li>
                 <li><strong>Mercado dos Lavradores:</strong> Marvel at traditional tilework, gigantic hanging black scabbard fish (*espada*), and colorful stalls featuring regional passion fruit cultivars (banana, pineapple, and lemon maracujá).</li>
               </ul>
@@ -39,7 +39,7 @@ def get_slides_act2():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            DAY 1 TRANSIT: FNC AIRPORT TO FUNCHAL • 19.5 KM EXPRESSWAY VIA VR1 (20 MIN)
+            DAY 1 TRANSIT: FNC AIRPORT TO FUNCHAL • 12 MILES (19.5 KM) EXPRESSWAY VIA VR1 (20 MIN)
           </div>
           <div class="tag tag-gold">DAY 1 ARRIVAL</div>
         </div>
@@ -138,7 +138,7 @@ def get_slides_act2():
         <div class="slide-eyebrow">Day 2 Trail • Eastern Volcanic Peninsula</div>
         <h2 class="slide-title">PR8: Ponta de São Lourenço "The Dragon's Tail"</h2>
         <p class="slide-subtitle">
-          7.2 km out-and-back trek across Madeira's dramatic easternmost volcanic peninsula—ochre sea cliffs, crashing turquoise Atlantic swells, and zero tree cover.
+          4.5 miles round-trip (7.2 km) trek across Madeira's dramatic easternmost volcanic peninsula—ochre sea cliffs, crashing turquoise Atlantic swells, and zero tree cover.
         </p>
 
         <div class="content-area">
@@ -148,10 +148,10 @@ def get_slides_act2():
               <h3 class="card-heading">PR8 Clifftop Expedition Blueprint</h3>
               <ul class="highlight-list">
                 <li><strong>Trailhead:</strong> Baía d'Abra car park (start at 08:30 AM to beat midday sun and tour mini-buses). Official ICNF permit required (€3/person booked via Simplifica).</li>
-                <li><strong>Key Stats:</strong> 7.2 km round trip • +320m / -320m cumulative elevation • 3.0 – 3.5 hours hiking duration.</li>
+                <li><strong>Key Stats:</strong> 4.5 miles round trip (7.2 km) • +1,050 ft / -1,050 ft (+320m / -320m) cumulative elevation • 3.0 – 3.5 hours hiking duration.</li>
                 <li><strong>Volcanic Formations:</strong> Striated multi-colored basalt dykes and red tuff layers plunging vertically into turbulent ocean waters; razor-thin land isthmuses flanked by Atlantic surf on both sides.</li>
-                <li><strong>Oasis Rest Stop:</strong> Casa do Sardinha visitor oasis at Km 3.0 offers shaded stone tables and freshwater points before the final summit push.</li>
-                <li><strong>The Climax:</strong> Steep staircase ascent to Miradouro Ponta do Furado (150m above sea level) with sweeping panoramic views of the Desertas Islands in the distance.</li>
+                <li><strong>Oasis Rest Stop:</strong> Casa do Sardinha visitor oasis at Mile 1.9 (Km 3.0) offers shaded stone tables and freshwater points before the final summit push.</li>
+                <li><strong>The Climax:</strong> Steep staircase ascent to Miradouro Ponta do Furado (500 ft / 150m above sea level) with sweeping panoramic views of the Desertas Islands in the distance.</li>
               </ul>
             </div>
 
@@ -168,7 +168,7 @@ def get_slides_act2():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            TRAIL SPEC: 7.2 KM ROUND TRIP • +320M ELEVATION • FULL SUN EXPOSURE (PACK SPF 50 & 1.5L WATER)
+            TRAIL SPEC: 4.5 MILES (7.2 KM) • +1,050 FT (+320M) ELEVATION • FULL SUN EXPOSURE (PACK SPF 50 & 50 OZ WATER)
           </div>
           <div class="tag tag-gold">PR8 TRAIL</div>
         </div>
@@ -190,7 +190,7 @@ def get_slides_act2():
               <div class="card-label">Afternoon Coastal Logistics</div>
               <h3 class="card-heading">Harbor Seafood & Volcanic Swimming</h3>
               <ul class="highlight-list">
-                <li><strong>Caniçal Fisherman's Harbor:</strong> A 10-minute drive from the PR8 trailhead. Traditional working harbor with colorful trawlers and genuine fishing culture (historic center of Madeira's whale observation).</li>
+                <li><strong>Caniçal Fisherman's Harbor:</strong> A 3.5-mile (10-minute) drive from the PR8 trailhead. Traditional working harbor with colorful trawlers and genuine fishing culture (historic center of Madeira's whale observation).</li>
                 <li><strong>Harbor Lunch at Muralha da Nau:</strong> Sizzling cast-iron skillet of grilled limpets (<em>lapas grelhadas</em>) with butter, garlic, and fresh lemon juice, plus fresh grilled mackerel or tuna steak.</li>
                 <li><strong>Refreshing Beverage:</strong> Chilled <em>Brisa Maracujá</em>—Madeira’s iconic regional passion fruit sparkling soda made with real fruit juice—and sparkling water.</li>
                 <li><strong>Prainha Volcanic Beach:</strong> Tucked inside a hidden cliff cove near Caniçal, Prainha is one of Madeira’s few 100% natural dark sand beaches. Perfect calm water for swimming after hiking.</li>
@@ -254,7 +254,7 @@ def get_slides_act2():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            TACTICAL TRANSITION: EAST COAST TO HIGH CENTRAL MASSIF (35 MIN DRIVE)
+            TACTICAL TRANSITION: EAST COAST TO HIGH CENTRAL MASSIF (18 MILES / 35 MIN DRIVE)
           </div>
           <div class="tag tag-gold">NIGHT 2 RETREAT</div>
         </div>
@@ -263,4 +263,4 @@ def get_slides_act2():
 
 if __name__ == '__main__':
     slides = get_slides_act2()
-    print("Act 2 generated successfully. Total length:", len(slides))
+    print("Act 2 updated with American units.")

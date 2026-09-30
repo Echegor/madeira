@@ -52,7 +52,7 @@ def get_slides_act5():
         <div class="slide-eyebrow">Day 7 Culture & Heritage • Monte Hills</div>
         <h2 class="slide-title">Monte Palace Tropical Gardens & Wicker Sledge</h2>
         <p class="slide-subtitle">
-          Gliding over Funchal by cable car, exploring 70,000 m² of exotic botanical treasures, and hurtling downhill in a traditional wicker toboggan.
+          Gliding over Funchal by cable car, exploring 17 acres of exotic botanical treasures, and hurtling downhill in a traditional wicker toboggan.
         </p>
 
         <div class="content-area">
@@ -61,10 +61,10 @@ def get_slides_act5():
               <div class="card-label">Cultural Heritage Blueprint</div>
               <h3 class="card-heading">Palace Gardens & The Carreiros do Monte</h3>
               <ul class="highlight-list">
-                <li><strong>Funchal Cable Car (Teleférico):</strong> Board at the Old Town seafront; 15-minute aerial glide rising 560 meters over terraced hills and red-tiled roofs to Monte village.</li>
-                <li><strong>Monte Palace Tropical Gardens:</strong> 70,000 m² of lush subtropical paradise featuring exotic tree ferns from South Africa, ancient azulejo tile collections from the 15th–20th centuries, Japanese koi gardens, and marble sculptures.</li>
+                <li><strong>Funchal Cable Car (Teleférico):</strong> Board at the Old Town seafront; 15-minute aerial glide rising 1,840 feet (560 meters) over terraced hills and red-tiled roofs to Monte village.</li>
+                <li><strong>Monte Palace Tropical Gardens:</strong> 17 acres (70,000 m²) of lush subtropical paradise featuring exotic tree ferns from South Africa, ancient azulejo tile collections from the 15th–20th centuries, Japanese koi gardens, and marble sculptures.</li>
                 <li><strong>The Famous Monte Sledge (Carreiros do Monte):</strong> A 170-year-old Madeiran tradition dating back to 1850. Two passengers sit in a hand-crafted wicker basket mounted on wooden runners greased with tallow.</li>
-                <li><strong>The Thrilling 2 km Descent:</strong> Two traditional drivers (<em>Carreiros</em>) dressed in white linen, straw boater hats, and thick rubber-soled boots steer and brake with their feet, guiding the sledge down steep cobblestone curves to Livramento at up to 30 km/h!</li>
+                <li><strong>The Thrilling 1.2-Mile Descent:</strong> Two traditional drivers (<em>Carreiros</em>) dressed in white linen, straw boater hats, and thick rubber-soled boots steer and brake with their feet, guiding the sledge down steep cobblestone curves to Livramento at up to 19 mph (30 km/h)!</li>
                 <li><strong>Shared Activity Budget:</strong> Cable car (~€26 combined for 2) + Monte Palace tickets (€30 combined) + Wicker sledge for two (€35) = ~€91 total shared cost.</li>
               </ul>
             </div>
@@ -82,7 +82,7 @@ def get_slides_act5():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            LIVING TRADITION: HANDMADE WICKER TOBOGGANS STEERED ON GREASED WOODEN RUNNERS
+            LIVING TRADITION: 1.2-MILE (2 KM) DESCENT AT 19 MPH ON HANDCRAFTED WICKER RUNNERS
           </div>
           <div class="tag tag-gold">MONTE SLEDGE</div>
         </div>
@@ -118,7 +118,7 @@ def get_slides_act5():
               <div class="media-overlay">
                 <div class="media-badge">GASTRONOMY FINALE</div>
                 <div class="media-title">Atlantic Flavors & Fresh Harvests</div>
-                <div class="media-caption">Celebrating 68.5 kilometers of conquered peaks and levadas with Madeira's finest ocean bounty.</div>
+                <div class="media-caption">Celebrating 42.5 miles (68.5 km) of conquered peaks and levadas with Madeira's finest ocean bounty.</div>
               </div>
             </div>
           </div>
@@ -148,10 +148,10 @@ def get_slides_act5():
               <div class="card-label">Civil Engineering Marvel</div>
               <h3 class="card-heading">The Stilt Runway of Santa Cruz</h3>
               <ul class="highlight-list">
-                <li><strong>The 180 Concrete Pillars:</strong> Completed in 2000, FNC's runway extension added 1,000 meters of tarmac cantilevered directly over the Atlantic Ocean on 180 reinforced concrete pillars, some rising 70 meters high (winner of the IABSE Outstanding Structure Award).</li>
+                <li><strong>The 180 Concrete Pillars:</strong> Completed in 2000, FNC's runway extension added 3,280 feet (1,000 meters) of tarmac cantilevered directly over the Atlantic Ocean on 180 reinforced concrete pillars, some rising 230 feet (70m) high (winner of the IABSE Outstanding Structure Award).</li>
                 <li><strong>Special Pilot Certification:</strong> Madeira’s crosswind patterns require aircraft captains to hold special category-C simulator training and direct certification for the curved visual approach.</li>
                 <li><strong>Wind Check Protocols:</strong> Before heading to the airport, monitor Santa Cruz METAR wind data and the live flight radar feed on your phone. Morning departure banks typically enjoy calm trade winds.</li>
-                <li><strong>Terminal Logistics:</strong> 15-minute smooth drive east from Funchal on VR1. Rental car return depot is located adjacent to the terminal entrance with easy key drop.</li>
+                <li><strong>Terminal Logistics:</strong> 10-mile (15-minute) smooth drive east from Funchal on VR1. Rental car return depot is located adjacent to the terminal entrance with easy key drop.</li>
                 <li><strong>Last-Minute Regional Treats:</strong> Pick up traditional <em>Bolo de Mel de Cana</em> (Madeiran sugarcane honey spice cake) and vacuum-sealed <em>Queijadas</em> in the departures hall before boarding.</li>
               </ul>
             </div>
@@ -169,7 +169,7 @@ def get_slides_act5():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            DEPARTURE WINDOW: 15 MIN DRIVE FROM FUNCHAL VIA VR1 • SMOOTH AIRPORT RETURN
+            DEPARTURE WINDOW: 10 MILES (15 MIN) DRIVE FROM FUNCHAL VIA VR1 • SMOOTH AIRPORT RETURN
           </div>
           <div class="tag tag-teal">FNC DEPARTURE</div>
         </div>
@@ -189,13 +189,13 @@ def get_slides_act5():
           <div class="scorecard-metric-grid">
             <div class="stat-box">
               <div class="card-label">Total Trail Distance</div>
-              <div class="stat-number">68.5 <span style="font-size: 1.2rem; color: var(--sand-muted);">KM</span></div>
-              <div class="stat-caption">5 Premier PR Trails Conquered</div>
+              <div class="stat-number">42.5 <span style="font-size: 1.2rem; color: var(--sand-muted);">MI</span></div>
+              <div class="stat-caption">68.5 KM • 5 Premier PR Trails</div>
             </div>
             <div class="stat-box">
               <div class="card-label">Cumulative Ascent</div>
-              <div class="stat-number">+3,450 <span style="font-size: 1.2rem; color: var(--sand-muted);">M</span></div>
-              <div class="stat-caption">Volcanic Peaks & Mountain Steps</div>
+              <div class="stat-number">+11,320 <span style="font-size: 1.2rem; color: var(--sand-muted);">FT</span></div>
+              <div class="stat-caption">+3,450 M • Volcanic Peaks & Stairs</div>
             </div>
             <div class="stat-box">
               <div class="card-label">Active Trail Time</div>
@@ -324,4 +324,4 @@ def get_slides_act5():
 
 if __name__ == '__main__':
     slides = get_slides_act5()
-    print("Act 5 generated successfully. Total length:", len(slides))
+    print("Act 5 updated with American units.")

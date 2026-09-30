@@ -19,17 +19,17 @@ def get_slides_act1():
             <div class="stat-box">
               <div class="card-label">Dates & Window</div>
               <div class="stat-number" style="font-size: 1.65rem;">8 Days / 7 Nights</div>
-              <div class="stat-caption">Ideal Oct–Nov or Apr–Jun • Spring & Autumn Seasons</div>
+              <div class="stat-caption">Ideal Oct–Nov or Apr–Jun • Spring & Fall Seasons</div>
             </div>
             <div class="stat-box">
               <div class="card-label">Trek Distance</div>
-              <div class="stat-number">68.5 <span style="font-size: 1.2rem; color: var(--sand-muted);">KM</span></div>
-              <div class="stat-caption">Premier PR Mountain & Levada Routes</div>
+              <div class="stat-number">42.5 <span style="font-size: 1.2rem; color: var(--sand-muted);">MILES</span></div>
+              <div class="stat-caption">68.5 KM • 5 Premier PR Routes</div>
             </div>
             <div class="stat-box">
               <div class="card-label">Vertical Gain</div>
-              <div class="stat-number">+3,450 <span style="font-size: 1.2rem; color: var(--sand-muted);">M</span></div>
-              <div class="stat-caption">Rugged Volcanic Ascents & Mountain Steps</div>
+              <div class="stat-number">+11,320 <span style="font-size: 1.2rem; color: var(--sand-muted);">FT</span></div>
+              <div class="stat-caption">+3,450 M • Volcanic Ascents & Stairs</div>
             </div>
             <div class="stat-box">
               <div class="card-label">Lodging Standard</div>
@@ -41,7 +41,7 @@ def get_slides_act1():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            EXPEDITION SCOPE: 4 MICROCLIMATES • 5 PREMIER PR TRAILS • VOLCANIC OCEAN BASINS
+            EXPEDITION SCOPE: 42.5 MILES (68.5 KM) • +11,320 FT (+3,450M) VERTICAL • 4 MICROCLIMATES
           </div>
           <div class="tag tag-gold">MASTER FIELD DOSSIER • 2026 EDITION</div>
         </div>
@@ -54,7 +54,7 @@ def get_slides_act1():
         <div class="slide-eyebrow">Island Topography & Route Philosophy</div>
         <h2 class="slide-title">Three Vertical Worlds & Microclimatic Strategy</h2>
         <p class="slide-subtitle">
-          Rising 1,862 meters straight out of the Atlantic abyss within 6 km of the coast, Madeira creates three dramatic vertical ecosystems across a single compact island.
+          Rising 6,109 feet (1,862 meters) straight out of the Atlantic abyss within 3.7 miles (6 km) of the coast, Madeira creates three dramatic vertical ecosystems across a single compact island.
         </p>
 
         <div class="content-area">
@@ -63,9 +63,9 @@ def get_slides_act1():
               <div class="card-label">Topographical Architecture</div>
               <h3 class="card-heading">The Three Vertical Ecosystems</h3>
               <ul class="highlight-list">
-                <li><strong>Subtropical Coastal Fringe (0–300m):</strong> Sunny, sheltered microclimate (20°C–24°C). Terraced banana plantations, red volcanic cliffs, and calm ocean bays along the south coast.</li>
-                <li><strong>UNESCO Laurissilva Rainforest (300–1,300m):</strong> Permanent moisture belt fed by Northeast Trade Winds (<em>Alísios</em>). Dense primordial laurel forests, moss-draped gorges, and dripping hand-hewn levada aqueducts.</li>
-                <li><strong>High Central Volcanic Massif (1,300–1,862m):</strong> Barren, razor-thin basalt ridges soaring above the sea of clouds. Crisp alpine air (6°C–12°C), dramatic weather inversions, and knife-edge paths.</li>
+                <li><strong>Subtropical Coastal Fringe (0–1,000 ft / 0–300m):</strong> Sunny, sheltered microclimate (68°F–75°F / 20°C–24°C). Terraced banana plantations, red volcanic cliffs, and calm ocean swimming bays along the south coast.</li>
+                <li><strong>UNESCO Laurissilva Rainforest (1,000–4,250 ft / 300–1,300m):</strong> Permanent moisture belt fed by Northeast Trade Winds (<em>Alísios</em>). Dense primordial laurel forests, moss-draped gorges, and dripping hand-hewn levada aqueducts.</li>
+                <li><strong>High Central Volcanic Massif (4,250–6,109 ft / 1,300–1,862m):</strong> Barren, razor-thin basalt ridges soaring above the sea of clouds. Crisp alpine air (43°F–54°F / 6°C–12°C), dramatic weather inversions, and knife-edge paths.</li>
                 <li><strong>The Strategic Philosophy:</strong> Conquer high alpine peaks and narrow levadas early in the morning before afternoon trade clouds build; descend to coastal fishing villages and natural lava pools for restorative afternoons.</li>
               </ul>
             </div>
@@ -96,7 +96,7 @@ def get_slides_act1():
         <div class="slide-eyebrow">Island Cartography & Waypoint Command</div>
         <h2 class="slide-title">Interactive Madeira Cartography & Trail Dispatch</h2>
         <p class="slide-subtitle">
-          Click or tap any waypoint below or scrub the island map to inspect premier PR trailheads, distances, vertical gain, and verified GPS links.
+          Click or tap any waypoint below or scrub the island map to inspect premier PR trailheads, distances in miles and km, vertical gain in feet, and verified GPS links.
         </p>
 
         <div class="content-area">
@@ -189,7 +189,7 @@ def get_slides_act1():
               </svg>
 
               <div style="font-family: var(--font-mono); font-size: 0.76rem; color: var(--sand-muted); margin-top: 8px; text-align: center;">
-                TAP ANY WAYPOINT OR USE PILLS ABOVE TO INSPECT TRAIL SPECS
+                TAP ANY WAYPOINT OR USE PILLS ABOVE TO INSPECT TRAIL SPECS (MILES & FEET)
               </div>
             </div>
 
@@ -201,7 +201,7 @@ def get_slides_act1():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            TOTAL EXPEDITION ROUTE: ~68.5 KM • +3,450M VERTICAL • 5 PREMIER PR CLASSIFIED TRAILS
+            TOTAL EXPEDITION ROUTE: 42.5 MILES (68.5 KM) • +11,320 FT VERTICAL GAIN • 5 PREMIER PR TRAILS
           </div>
           <div class="tag tag-gold">GPS ROUTE HUB</div>
         </div>
@@ -223,9 +223,9 @@ def get_slides_act1():
               <div class="card-label">Trade Winds & The Inversion Engine</div>
               <h3 class="card-heading">The "Sea of Clouds" Dynamic</h3>
               <ul class="highlight-list">
-                <li><strong>The Alísios Mechanism:</strong> Prevailing northeast trade winds push warm Atlantic moisture against Madeira’s sheer 1,800m northern volcanic barrier, forcing it upward into a persistent condensation layer between 800m and 1,400m.</li>
-                <li><strong>The Temperature Inversion:</strong> Around 1,400m altitude, the cloud ceiling abruptly caps. Pico do Arieiro and Pico Ruivo emerge into brilliant sunshine above an unbroken carpet of white cotton clouds.</li>
-                <li><strong>Rapid Thermal Swings:</strong> Expect a 14°C drop within a 35-minute drive from sunny Funchal (22°C) to the windswept summit of Arieiro (8°C). Summit wind chill can feel near freezing at sunrise.</li>
+                <li><strong>The Alísios Mechanism:</strong> Prevailing northeast trade winds push warm Atlantic moisture against Madeira’s sheer 5,900-foot northern barrier, forcing it upward into a persistent cloud layer between 2,600 and 4,600 feet (800m to 1,400m).</li>
+                <li><strong>The Temperature Inversion:</strong> Around 4,600 feet (1,400m), the cloud ceiling abruptly caps. Pico do Arieiro and Pico Ruivo emerge into brilliant sunshine above an unbroken carpet of white cotton clouds.</li>
+                <li><strong>Rapid Thermal Swings:</strong> Expect a 25°F drop within a 35-minute drive from sunny Funchal (72°F / 22°C) to the windswept summit of Arieiro (46°F / 8°C). Summit wind chill can feel near freezing (32°F / 0°C) at sunrise.</li>
                 <li><strong>Foehn Rain Shadow:</strong> The southern coast (Funchal, Ponta do Sol) stays warm and dry because clouds shed their moisture over the north mountains before warming as they descend the southern slopes.</li>
               </ul>
             </div>
@@ -240,7 +240,7 @@ def get_slides_act1():
               </div>
               <ul class="highlight-list">
                 <li><strong>Step 1 (06:00 AM Webcam Check):</strong> Open live summit cameras. If Arieiro shows clear starry skies or brilliant dawn light while Encumeada is foggy, the cloud inversion is locked in!</li>
-                <li><strong>Step 2 (Adaptive Decision):</strong> If summit webcams reveal total gray soup with high winds (>50 km/h), swap the day: do a sheltered low-elevation levada or sunny coastal walk instead.</li>
+                <li><strong>Step 2 (Adaptive Decision):</strong> If summit webcams reveal total gray soup with high winds (>30 mph / >50 km/h), swap the day: do a sheltered low-elevation levada or sunny coastal walk instead.</li>
                 <li><strong>Rain Radar Vigilance:</strong> Check IPMA (Portuguese Met Institute) Madeira Doppler radar for convective cells before entering narrow canyons like Caldeirão Verde.</li>
               </ul>
               <div class="field-alert" style="margin-top: 0.8rem; padding: 0.9rem 1.1rem;">
@@ -268,7 +268,7 @@ def get_slides_act1():
         <div class="slide-eyebrow">Ground Logistics & Mountain Roads</div>
         <h2 class="slide-title">Island Driving, Rental Architecture & Tunnels</h2>
         <p class="slide-subtitle">
-          Navigating 150+ highway tunnels, the VR1 coastal expressway, and 25% cobblestone mountain switchbacks—vehicle selection and driving etiquette.
+          Navigating 150+ highway tunnels, the 65 mph (100 km/h) VR1 coastal expressway, and 25% cobblestone mountain switchbacks—vehicle selection and driving etiquette.
         </p>
 
         <div class="content-area">
@@ -337,9 +337,9 @@ def get_slides_act1():
               <div class="card-label">Levada Cliff & Tunnel Protocols</div>
               <h3 class="card-heading">Narrow Wall Passing & Tunnel Etiquette</h3>
               <ul class="highlight-list">
-                <li><strong>Anatomy of a Levada:</strong> Maintenance walkways are frequently only 40–80 cm wide, with a rushing water channel on one side and a sheer cliff drop-off (often 100m+) on the other.</li>
+                <li><strong>Anatomy of a Levada:</strong> Maintenance walkways are frequently only 16 to 32 inches (40–80 cm) wide, with a rushing water channel on one side and a sheer cliff drop-off (often 300+ ft / 100m+) on the other.</li>
                 <li><strong>Two-Way Passing Etiquette:</strong> When meeting oncoming hikers on narrow ledges, the hiker on the outer wall steps toward the mountain or hugs the rock face. Always halt completely before passing.</li>
-                <li><strong>Water Tunnels (Túneis):</strong> Premier levadas (PR9 Caldeirão Verde, PR6 25 Fontes) pass through long, unlit tunnels (up to 1,000m long). A 300+ lumen waterproof headlamp is mandatory. Smartphone torches are inadequate and easily dropped in water.</li>
+                <li><strong>Water Tunnels (Túneis):</strong> Premier levadas (PR9 Caldeirão Verde, PR6 25 Fontes) pass through long, unlit tunnels (up to 3,300 ft / 1,000m long). A 300+ lumen waterproof headlamp is mandatory. Smartphone torches are inadequate and easily dropped in water.</li>
                 <li><strong>Basalt Ceiling Collisions:</strong> Tunnels are hand-carved with low, jagged basalt rock roofs. Keep your head down and wear a hooded jacket or baseball cap to absorb glancing bumps.</li>
                 <li><strong>Vertigo Cable Railings:</strong> Steel safety cables line exposed cliff drop-offs. Never lean your full body weight against them or hang heavy backpacks from them.</li>
               </ul>
@@ -390,7 +390,7 @@ def get_slides_act1():
                 <li><strong>Trail Runners with Sticky Outsoles:</strong> Vibram Megagrip or Contagrip lugs (e.g. Hoka Speedgoat, Brooks Cascadia). Smooth road running shoes are treacherous on wet basalt stone and levada algae.</li>
                 <li><strong>High-Lumen Waterproof Headlamp:</strong> Minimum 300–450 lumens with wide flood beam (Black Diamond Storm / Petzl Actik). Crucial for PR9's 4 dark tunnels and PR1 sunrise starts.</li>
                 <li><strong>Packable Waterproof Hard Shell:</strong> 2.5L or 3L lightweight breathable jacket (Gore-Tex / Pertex). Essential for sudden cloudbursts, dripping levada tunnels, and summit wind chill.</li>
-                <li><strong>Layered Fleece / Down Sweater:</strong> High peaks drop to 6°C–8°C at sunrise. A packable micro-puff down jacket is ideal for waiting at Miradouro do Juncal.</li>
+                <li><strong>Layered Fleece / Down Sweater:</strong> High peaks drop to 43°F–46°F (6°C–8°C) at sunrise. A packable micro-puff down jacket is ideal for waiting at Miradouro do Juncal.</li>
                 <li><strong>Telescopic Trekking Poles:</strong> Must have rubber tip caps (metal carbide tips can damage stone stairways and are prohibited on some wooden walkways).</li>
               </ul>
             </div>
@@ -401,7 +401,7 @@ def get_slides_act1():
               <ul class="highlight-list">
                 <li><strong>Offline GPS Nav & Power Bank:</strong> 10,000 mAh battery bank. Download Madeira offline maps on AllTrails Pro, Wikiloc, and Maps.me (canyons have zero cell reception).</li>
                 <li><strong>10L–15L Waterproof Dry Bag:</strong> Protects phones, car keys, and spare dry socks from tunnel drippings and waterfall spray at Caldeirão Verde.</li>
-                <li><strong>Hydration & Trail Snacks:</strong> 1.5L capacity per person. Electrolytes and energy bars (plus sweet local Madeira bananas and Queijadas).</li>
+                <li><strong>Hydration & Trail Snacks:</strong> Minimum 50 oz (1.5 Liters) capacity per person. Electrolytes and energy bars (plus sweet local Madeira bananas and Queijadas).</li>
                 <li><strong>Ocean Swim & Pool Gear:</strong> Quick-dry microfiber towel and swimwear packed in the car trunk for post-hike plunges at Porto Moniz and Seixal.</li>
                 <li><strong>Sun & Wind Defense:</strong> Polarized sunglasses and SPF 50 sunscreen—UV index is intense on high peaks and unshaded Ponta de São Lourenço.</li>
               </ul>
@@ -411,7 +411,7 @@ def get_slides_act1():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            GEAR STRATEGY: LIGHTWEIGHT LAYERS COVERING 6°C ALPINE SUMMITS TO 24°C OCEAN POOLS
+            GEAR STRATEGY: LIGHTWEIGHT LAYERS COVERING 43°F (6°C) SUMMITS TO 75°F (24°C) OCEAN POOLS
           </div>
           <div class="tag tag-gold">MASTER GEAR KIT</div>
         </div>
@@ -420,4 +420,4 @@ def get_slides_act1():
 
 if __name__ == '__main__':
     slides = get_slides_act1()
-    print("Act 1 generated successfully. Total length:", len(slides))
+    print("Act 1 updated with American units.")

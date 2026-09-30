@@ -9,7 +9,7 @@ def get_slides_act3():
         <div class="slide-eyebrow">Day 3 High Alpine • The Crown Jewel Ridge</div>
         <h2 class="slide-title">PR1: Pico do Arieiro to Pico Ruivo Ridge Traverse</h2>
         <p class="slide-subtitle">
-          12.0 km of high-altitude volcanic drama—walking across knife-edge ridges, hand-chiseled cliff tunnels, and vertical steel staircases above a sea of clouds.
+          7.5 miles (12.0 km) of high-altitude volcanic drama—walking across knife-edge ridges, hand-chiseled cliff tunnels, and vertical steel staircases above a sea of clouds.
         </p>
 
         <div class="content-area">
@@ -18,12 +18,12 @@ def get_slides_act3():
               <div class="card-label">Trail Breakdown & Key Segments</div>
               <h3 class="card-heading">The Atlantic's Master Mountain Trek</h3>
               <ul class="highlight-list">
-                <li><strong>Start Point:</strong> Pico do Arieiro radar dome (1,818m). Official ICNF permit (€3/person) strictly required and checked at the gate.</li>
-                <li><strong>Trail Metrics:</strong> 12.0 km out-and-back • +1,050m / -1,050m cumulative elevation • 5.0 – 6.0 hours strenuous hiking.</li>
-                <li><strong>Ninho da Manta (Buzzard's Nest):</strong> Spectacular stone balcony jutting out over the sheer 1,000m abyss of the Ribeira da Fajã da Nogueira valley.</li>
+                <li><strong>Start Point:</strong> Pico do Arieiro radar dome at 5,965 ft (1,818m). Official ICNF permit (€3/person) strictly required and checked at the gate.</li>
+                <li><strong>Trail Metrics:</strong> 7.5 miles out-and-back (12.0 km) • +3,450 ft / -3,450 ft (+1,050m / -1,050m) cumulative elevation • 5.0 – 6.0 hours strenuous hiking.</li>
+                <li><strong>Ninho da Manta (Buzzard's Nest):</strong> Spectacular stone balcony jutting out over the sheer 3,300-foot (1,000m) abyss of the Ribeira da Fajã da Nogueira valley.</li>
                 <li><strong>Pedra Rija & The Stairways:</strong> Dizzying narrow path along the razor-thin volcanic crest followed by near-vertical steel staircases descending into the shadow of Pico das Torres.</li>
                 <li><strong>Carved Basalt Cliff Tunnels:</strong> Four tunnels bored straight through basalt needles (headlamp required; wet stone footing).</li>
-                <li><strong>Pico Ruivo Summit (1,862m):</strong> The highest point in Madeira! 360-degree panorama of the entire volcanic archipelago floating on clouds.</li>
+                <li><strong>Pico Ruivo Summit (6,109 ft / 1,862m):</strong> The highest point in Madeira! 360-degree panorama of the entire volcanic archipelago floating on clouds.</li>
               </ul>
             </div>
 
@@ -32,7 +32,7 @@ def get_slides_act3():
               <div class="media-overlay">
                 <div class="media-badge">PR1 MASTER RIDGE</div>
                 <div class="media-title">Walking on the Roof of Madeira</div>
-                <div class="media-caption">Suspended between volcanic needles and an endless rolling ocean of white cumulus clouds at 1,800 meters altitude.</div>
+                <div class="media-caption">Suspended between volcanic needles and an endless rolling ocean of white cumulus clouds at 6,000 feet altitude.</div>
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@ def get_slides_act3():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            ATHLETIC REQUIREMENT: STRENUOUS STAIRWAY CLIMBS • PACK HEADLAMP & 1.5L WATER PER HIKER
+            ATHLETIC REQUIREMENT: STRENUOUS STAIRWAY CLIMBS • PACK HEADLAMP & 50 OZ (1.5L) WATER PER HIKER
           </div>
           <div class="tag tag-gold">PR1 ALPINE CREST</div>
         </div>
@@ -62,8 +62,8 @@ def get_slides_act3():
               <div class="card-label">Field Timing & Sunrise Protocol</div>
               <h3 class="card-heading">Miradouro do Juncal Sunrise Master Plan</h3>
               <ul class="highlight-list">
-                <li><strong>06:15 AM Drive from Coast:</strong> 40-minute drive from Machico up ER103 and ER202 to the Pico do Arieiro upper lot. Warm clothes and headlamps ready.</li>
-                <li><strong>07:00 AM – 07:35 AM Sunrise Spectacle:</strong> Short 10-minute walk east from the parking area to Miradouro do Juncal. Watch golden dawn light ignite the sea of clouds and the eastern volcanic ridges.</li>
+                <li><strong>06:15 AM Drive from Coast:</strong> 18-mile (40-minute) drive from Machico up ER103 and ER202 to the Pico do Arieiro upper lot at 5,965 ft. Warm layers and headlamps ready.</li>
+                <li><strong>07:00 AM – 07:35 AM Sunrise Spectacle:</strong> Short 10-minute walk east from the parking area to Miradouro do Juncal. Watch golden dawn light ignite the sea of clouds and eastern volcanic ridges.</li>
                 <li><strong>Parking Regulations:</strong> The upper lot fills completely before 07:15 AM. Paid parking zones monitored by cameras. Arriving early guarantees a legal designated parking stall.</li>
                 <li><strong>Early Trail Entry:</strong> Stepping onto PR1 immediately after sunrise (07:45 AM) lets you hike the narrowest staircases and tunnels in tranquil solitude before tour crowds arrive at 10:00 AM.</li>
               </ul>
@@ -73,14 +73,14 @@ def get_slides_act3():
               <div class="card-label">Route Logistics Decision</div>
               <h3 class="card-heading">Out-and-Back vs One-Way Traverse</h3>
               <ul class="highlight-list">
-                <li><strong>Option A: Full Out-and-Back (12.0 km, 5.5–6h):</strong> Hike Arieiro → Ruivo → Arieiro. Requires extreme leg endurance for the return staircases up Torres/Arieiro (+1,050m), but 100% free with your rental car waiting at the start.</li>
-                <li><strong>Option B: One-Way Traverse to Achada do Teixeira (7.2 km, 3.5h):</strong> From Pico Ruivo summit, descend 2.8 km along PR1.2 down to Achada do Teixeira parking lot. Eliminates the brutal return stair climb.</li>
+                <li><strong>Option A: Full Out-and-Back (7.5 miles / 12.0 km, 5.5–6h):</strong> Hike Arieiro → Ruivo → Arieiro. Requires extreme leg endurance for the return staircases up Torres/Arieiro (+3,450 ft / +1,050m), but 100% free with your rental car waiting at the start.</li>
+                <li><strong>Option B: One-Way Traverse to Achada do Teixeira (4.5 miles / 7.2 km, 3.5h):</strong> From Pico Ruivo summit, descend 1.7 miles (2.8 km) along PR1.2 down to Achada do Teixeira parking lot. Eliminates the brutal return stair climb.</li>
                 <li><strong>Taxi Return Transfer:</strong> Pre-book a licensed mountain taxi from Achada do Teixeira back to your car at Pico do Arieiro (~€45 – €55 combined total, 45-min transit). Ideal if pacing energy.</li>
               </ul>
               <div class="field-alert" style="margin-top: 0.8rem; padding: 0.9rem 1.1rem;">
                 <div class="field-alert-icon">⚠️</div>
                 <div class="field-alert-text" style="font-size: 0.92rem; line-height: 1.45;">
-                  Bring at least 1.5L water per person; the mountain refuge at Ruivo (<em>Casa de Abrigo</em>) has limited opening hours and cash-only snacks.
+                  Bring at least 50 oz (1.5L) water per person; the mountain refuge at Ruivo (<em>Casa de Abrigo</em>) has limited opening hours and cash-only snacks.
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@ def get_slides_act3():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            SUNRISE PROTOCOL: MIRADOURO DO JUNCAL (10 MIN EAST OF RADAR DOME)
+            SUNRISE PROTOCOL: MIRADOURO DO JUNCAL (10 MIN EAST OF RADAR DOME AT 5,965 FT)
           </div>
           <div class="tag tag-teal">SUNRISE & SHUTTLE</div>
         </div>
@@ -102,7 +102,7 @@ def get_slides_act3():
         <div class="slide-eyebrow">Night 3 Lodging • North Coast Santana</div>
         <h2 class="slide-title">Quinta do Furão / Hotel Santana Rural Retreat</h2>
         <p class="slide-subtitle">
-          Cliff-edge vineyard estate perched 100 meters above the North Atlantic—roaring surf, cozy fireplaces, and traditional northern hospitality.
+          Cliff-edge vineyard estate perched 330 feet (100 meters) above the North Atlantic—roaring surf, cozy fireplaces, and traditional northern hospitality.
         </p>
 
         <div class="content-area">
@@ -111,11 +111,11 @@ def get_slides_act3():
               <div class="card-label">Property Specifications</div>
               <h3 class="card-heading">Quinta do Furão (Santana Cliffs)</h3>
               <ul class="highlight-list">
-                <li><strong>Accommodation Standard:</strong> Iconic 4★ traditional cliff-top quinta surrounded by organic vineyards and vegetable gardens. Private double room with balcony facing vertical ocean cliffs, comfortable heating, and en-suite bath.</li>
+                <li><strong>Accommodation Standard:</strong> Iconic 4★ traditional cliff-top quinta surrounded by organic vineyards and vegetable gardens. Private double room with balcony facing sheer 330-ft ocean cliffs, comfortable heating, and en-suite bath.</li>
                 <li><strong>Shared Room Rate:</strong> ~€115 – €135/night combined total for 2 guests (inclusive of rich farm-to-table breakfast buffet). Alternative 3★ option: Hotel Santana (~€85/night).</li>
                 <li><strong>Post-Trek Recovery:</strong> Heated indoor/outdoor relaxation pool and sauna with floor-to-ceiling glass looking straight out onto the crashing North Atlantic breakers.</li>
                 <li><strong>Evening Dining on Site:</strong> Wood-beamed dining room featuring wood-oven baked artisan bread, roasted pumpkin cream soup, and seared local trout paired with sparkling mineral water.</li>
-                <li><strong>Location Advantage:</strong> Positioned just 12 minutes from the trailhead of PR9 Levada do Caldeirão Verde, allowing an effortless early morning start tomorrow.</li>
+                <li><strong>Location Advantage:</strong> Positioned just 4.5 miles (12 minutes) from the trailhead of PR9 Levada do Caldeirão Verde, allowing an effortless early morning start tomorrow.</li>
               </ul>
             </div>
 
@@ -132,7 +132,7 @@ def get_slides_act3():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            LODGING METRIC: HEATED POOL & SAUNA • CLIFFTOP VINEYARD • 12 MIN TO PR9 TRAILHEAD
+            LODGING METRIC: HEATED POOL & SAUNA • CLIFFTOP VINEYARD • 4.5 MILES TO PR9 TRAILHEAD
           </div>
           <div class="tag tag-gold">NIGHT 3 QUINTA</div>
         </div>
@@ -145,7 +145,7 @@ def get_slides_act3():
         <div class="slide-eyebrow">Day 4 Levada • Subtropical Rainforest Canyon</div>
         <h2 class="slide-title">PR9: Levada do Caldeirão Verde "The Green Cauldron"</h2>
         <p class="slide-subtitle">
-          12.0 km of flat, emerald levada hiking deep into the UNESCO Laurissilva—passing through 4 dark basalt tunnels to a roaring 100-meter waterfall amphitheater.
+          7.5 miles (12.0 km) of flat, emerald levada hiking deep into the UNESCO Laurissilva—passing through 4 dark basalt tunnels to a roaring 330-foot (100m) waterfall amphitheater.
         </p>
 
         <div class="content-area">
@@ -155,10 +155,10 @@ def get_slides_act3():
               <h3 class="card-heading">Deep Into the Emerald Abyss</h3>
               <ul class="highlight-list">
                 <li><strong>Trailhead:</strong> Parque Florestal das Queimadas (charming thatched forest house). Arrive by 08:30 AM to beat the tour mini-buses. Official ICNF permit (€3/person) required.</li>
-                <li><strong>Key Stats:</strong> 12.0 km round trip • Nearly flat (+100m gradual grade) • 3.5 – 4.0 hours duration.</li>
+                <li><strong>Key Stats:</strong> 7.5 miles round trip (12.0 km) • Nearly flat (+330 ft / +100m gradual grade) • 3.5 – 4.0 hours duration.</li>
                 <li><strong>The Ancient Laurissilva:</strong> Towering moss-covered stinkwood (<em>Til</em>), Madeira mahogany, and dripping giant fern grottos clinging to sheer volcanic canyon walls.</li>
-                <li><strong>Four Carved Basalt Tunnels:</strong> Hand-chiseled rock passages up to 200m long. Turn on your 400-lumen headlamp, mind low jagged ceilings, and step carefully along the narrow concrete aqueduct lip.</li>
-                <li><strong>The Green Cauldron Amphitheater:</strong> The trail dead-ends inside a jaw-dropping vertical cathedral of emerald-green moss, where a 100-meter waterfall thunders down into an icy turquoise pool.</li>
+                <li><strong>Four Carved Basalt Tunnels:</strong> Hand-chiseled rock passages up to 650 ft (200m) long. Turn on your 400-lumen headlamp, mind low jagged ceilings, and step carefully along the narrow concrete aqueduct lip.</li>
+                <li><strong>The Green Cauldron Amphitheater:</strong> The trail dead-ends inside a jaw-dropping vertical cathedral of emerald-green moss, where a 330-foot (100m) waterfall thunders down into an icy turquoise pool.</li>
               </ul>
             </div>
 
@@ -166,7 +166,7 @@ def get_slides_act3():
               <img src="https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1200&q=80" alt="Caldeirao Verde Waterfall" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR9 EMERALD CANYON</div>
-                <div class="media-title">Caldeirão Verde: 100-Meter Cascade</div>
+                <div class="media-title">Caldeirão Verde: 330-Foot Cascade</div>
                 <div class="media-caption">Water drizzles through hanging ferns from every crevice in this primordial subtropical rainforest sanctuary.</div>
               </div>
             </div>
@@ -242,9 +242,9 @@ def get_slides_act3():
               <ul class="highlight-list">
                 <li><strong>Accommodations:</strong> <em>Estalagem do Vale</em> (historic restored manor house in São Vicente valley) or <em>Hotel Monte Mar Palace</em> (oceanfront cliffs of Ponta Delgada). Private double room with balcony facing the ocean or green peaks, en-suite bathroom, and heated amenities.</li>
                 <li><strong>Shared Room Rate:</strong> ~€88 – €105/night combined total for 2 guests (including hot breakfast buffet).</li>
-                <li><strong>Dramatic Topography:</strong> São Vicente valley cuts dramatically through the volcanic spine, framed by sheer 1,000m green cliff walls and the rushing São Vicente stream.</li>
+                <li><strong>Dramatic Topography:</strong> São Vicente valley cuts dramatically through the volcanic spine, framed by sheer 3,300-foot (1,000m) green cliff walls and the rushing São Vicente stream.</li>
                 <li><strong>Evening Seaside Stroll:</strong> Walk the rugged sea wall of São Vicente or Ponta Delgada; marvel at the raw power of the Atlantic surf crashing onto dark basalt boulders.</li>
-                <li><strong>Strategic Staging:</strong> Located at the northern terminus of the VE2 coastal road, only 20 minutes from the mystical Fanal Forest and Porto Moniz lava pools tomorrow.</li>
+                <li><strong>Strategic Staging:</strong> Located at the northern terminus of the VE2 coastal road, only 8 miles (20 minutes) from the mystical Fanal Forest and Porto Moniz lava pools tomorrow.</li>
               </ul>
             </div>
 
@@ -261,7 +261,7 @@ def get_slides_act3():
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            NORTH SHORE BASE: SÃO VICENTE VALLEY • 20 MIN TO FANAL MIST FOREST
+            NORTH SHORE BASE: SÃO VICENTE VALLEY • 8 MILES (20 MIN) TO FANAL MIST FOREST
           </div>
           <div class="tag tag-teal">NIGHT 4 INN</div>
         </div>
@@ -270,4 +270,4 @@ def get_slides_act3():
 
 if __name__ == '__main__':
     slides = get_slides_act3()
-    print("Act 3 generated successfully. Total length:", len(slides))
+    print("Act 3 updated with American units.")
