@@ -156,7 +156,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1628178873738-958040bc43f1?auto=format&fit=crop&w=1200&q=80" alt="Ponta de Sao Lourenco Cliffs" loading="lazy">
+              <img src="https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1200&q=80" alt="Ponta de Sao Lourenco Cliffs" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR8 CLUSTER</div>
                 <div class="media-title">The Dragon's Spine in the Atlantic</div>

@@ -49,7 +49,7 @@ def get_header_and_drawer():
           </optgroup>
           <optgroup label="🌊 ACT IV: MIST FORESTS & OCEAN POOLS (SLIDES 20–24)">
             <option value="19">Slide 20 • Day 5: Fanal Ancient Mist Forest (UNESCO)</option>
-            <option value="21">Slide 21 • Day 5: Porto Moniz Lava Pools & Seixal</option>
+            <option value="20">Slide 21 • Day 5: Porto Moniz Lava Pools & Seixal</option>
             <option value="21">Slide 22 • Night 5: Northwest Ocean Sanctuary</option>
             <option value="22">Slide 23 • Day 6: PR6 25 Fontes & Risco Cascades</option>
             <option value="23">Slide 24 • Day 6: Achadas da Cruz & Cabo Girão</option>
@@ -98,11 +98,11 @@ def get_header_and_drawer():
           </div>
           <div class="drawer-filter-pills" id="drawerFilterPills">
             <button class="drawer-filter-pill active" data-filter="all" type="button">All (30)</button>
-            <button class="drawer-filter-pill" data-filter="trail" type="button">Trails & Peaks (9)</button>
+            <button class="drawer-filter-pill" data-filter="trail" type="button">Trails & Peaks (10)</button>
             <button class="drawer-filter-pill" data-filter="retreat" type="button">Lodging (6)</button>
             <button class="drawer-filter-pill" data-filter="dining" type="button">Gastronomy (4)</button>
-            <button class="drawer-filter-pill" data-filter="transit" type="button">Transit (6)</button>
-            <button class="drawer-filter-pill" data-filter="overview" type="button">Strategy (5)</button>
+            <button class="drawer-filter-pill" data-filter="transit" type="button">Transit (5)</button>
+            <button class="drawer-filter-pill" data-filter="overview" type="button">Strategy (8)</button>
           </div>
         </div>
 
@@ -849,7 +849,7 @@ def get_script():
         15: { cat: ['all', 'transit'], primaryCat: 'transit', tag: 'SUNRISE LOGISTICS' },
         16: { cat: ['all', 'retreat'], primaryCat: 'retreat', tag: 'QUINTA' },
         17: { cat: ['all', 'trail'], primaryCat: 'trail', tag: 'PR9 CANYON' },
-        18: { cat: ['all', 'overview'], primaryCat: 'overview', tag: 'SANTANA' },
+        18: { cat: ['all', 'overview', 'dining'], primaryCat: 'dining', tag: 'SANTANA' },
         19: { cat: ['all', 'retreat'], primaryCat: 'retreat', tag: 'NORTH COAST' },
         20: { cat: ['all', 'trail'], primaryCat: 'trail', tag: 'FANAL FOREST' },
         21: { cat: ['all', 'trail'], primaryCat: 'trail', tag: 'LAVA POOLS' },

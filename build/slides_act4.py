@@ -200,7 +200,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1519046904884-53103b34b271?auto=format&fit=crop&w=1200&q=80" alt="Cabo Girao Cliffs" loading="lazy">
+              <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315?auto=format&fit=crop&w=1200&q=80" alt="Cabo Girao Cliffs" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">CLIFF ARCHITECTURE</div>
                 <div class="media-title">589 Meters Over the Atlantic</div>
