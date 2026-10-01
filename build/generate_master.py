@@ -24,12 +24,12 @@ def build_index_html():
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%230f172a' stroke='%23b47b2c' stroke-width='6'/><polygon points='50,18 58,45 85,50 58,55 50,82 42,55 15,50 42,45' fill='%23b47b2c'/></svg>">
   <meta property="og:title" content="Madeira Island Alpine & Coastal Expedition | Master Field Guide">
   <meta property="og:description" content="Comprehensive 8-day / 7-night expedition guide across Madeira Island, Portugal. Soaring volcanic ridges, primordial rainforest levadas, and dramatic Atlantic cliffs.">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?auto=format&fit=crop&w=1200&q=80">
+  <meta property="og:image" content="images/slide02_hero.jpg">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Madeira Island Alpine & Coastal Expedition | Master Field Guide">
   <meta name="twitter:description" content="Comprehensive 8-day / 7-night expedition guide across Madeira Island, Portugal. High peaks above clouds, emerald levadas, and ocean lava pools.">
-  <meta name="twitter:image" content="https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?auto=format&fit=crop&w=1200&q=80">
+  <meta name="twitter:image" content="images/slide02_hero.jpg">
   
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -56,3 +56,4 @@
 * **Zero Alcohol:** 100% compliant across all gastronomic slides (featuring *Sumo de Maracujá*, *Brisa Maracujá*, *Água das Pedras*, *bicas*).
 * **Shared Financials:** 100% compliant (strict shared total for 2 guests; zero per-person columns).
 * **American Units:** 100% converted across all 30 slides (miles, feet, °F, fluid oz prominent; metric in parentheses).
+* **Authentic Madeira Photography:** 100% genuine Madeira images (21 dedicated local assets in `/images/`, zero generic stock photos; fully verified offline-ready serving with 200 OK).

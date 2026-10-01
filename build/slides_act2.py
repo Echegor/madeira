@@ -27,7 +27,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80" alt="Funchal Historic Coastal City" loading="lazy">
+              <img src="images/slide08_funchal.jpg" alt="Funchal Historic Harbor & Coastal City" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">EXPEDITION DAY 1</div>
                 <div class="media-title">Funchal: The Subtropical Capital</div>
@@ -70,7 +70,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80" alt="Boutique Hotel Terrace" loading="lazy">
+              <img src="images/slide09_quinta.jpg" alt="Quinta Jardins do Lago & Historic Manor Gardens" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">NIGHT 1 RETREAT</div>
                 <div class="media-title">Boutique Portuguese Hospitality</div>
@@ -113,7 +113,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80" alt="Wood-Grilled Espetada" loading="lazy">
+              <img src="images/slide10_espetada.jpg" alt="Authentic Wood-Grilled Espetada Madeirense" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">MADEIRAN CULINARY HERITAGE</div>
                 <div class="media-title">Sizzling Laurel Wood Skewers</div>
@@ -156,7 +156,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1200&q=80" alt="Ponta de Sao Lourenco Cliffs" loading="lazy">
+              <img src="images/slide11_saolourenco.jpg" alt="Ponta de São Lourenço Volcanic Cliffs (PR8)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR8 CLUSTER</div>
                 <div class="media-title">The Dragon's Spine in the Atlantic</div>
@@ -199,7 +199,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Prainha Volcanic Beach" loading="lazy">
+              <img src="images/slide12_prainha.jpg" alt="Prainha Volcanic Black Sand Beach" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">COASTAL DISCOVERY</div>
                 <div class="media-title">Prainha: Hidden Black Sand Cove</div>
@@ -242,7 +242,7 @@ def get_slides_act2():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1200&q=80" alt="Machico Bay Hotel View" loading="lazy">
+              <img src="images/slide13_machico.jpg" alt="Machico Bay Coastal View" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">NIGHT 2 BASE</div>
                 <div class="media-title">Machico Bay: Historic Landing</div>

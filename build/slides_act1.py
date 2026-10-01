@@ -71,7 +71,7 @@ def get_slides_act1():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?auto=format&fit=crop&w=1200&q=80" alt="Madeira Mountain Ridge Above Clouds" loading="lazy">
+              <img src="images/slide02_hero.jpg" alt="Madeira Mountain Ridge Above Clouds (Pico do Arieiro)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">EXPEDITION PHILOSOPHY</div>
                 <div class="media-title">Alpine Mornings, Ocean Evenings</div>

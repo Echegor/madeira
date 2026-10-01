@@ -27,7 +27,7 @@ def get_slides_act5():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80" alt="Funchal Harbor Oceanfront" loading="lazy">
+              <img src="images/slide25_funchal_sea.jpg" alt="Funchal Harbor & Seafront Promenade" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">FUNCHAL HARBOR</div>
                 <div class="media-title">Gentle Subtropical Seaside Base</div>
@@ -70,7 +70,7 @@ def get_slides_act5():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=1200&q=80" alt="Monte Palace Tropical Gardens" loading="lazy">
+              <img src="images/slide26_monte.jpg" alt="Carros de Cesto Traditional Monte Wicker Toboggan Sledges" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">MONTE TRADITION</div>
                 <div class="media-title">Wicker Toboggans of Monte</div>
@@ -114,7 +114,7 @@ def get_slides_act5():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80" alt="Fresh Portuguese Seafood Feast" loading="lazy">
+              <img src="images/slide27_dining.jpg" alt="Espada com Banana (Black Scabbardfish with Caramelized Banana)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">GASTRONOMY FINALE</div>
                 <div class="media-title">Atlantic Flavors & Fresh Harvests</div>
@@ -157,7 +157,7 @@ def get_slides_act5():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80" alt="Aircraft Runway Over Sea" loading="lazy">
+              <img src="images/slide28_airport.jpg" alt="Cristiano Ronaldo Airport (FNC) Runway on Ocean Pillars" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">CIVIL ENGINEERING</div>
                 <div class="media-title">Runway 05/23: Bridge Over the Ocean</div>

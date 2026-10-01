@@ -27,7 +27,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80" alt="Fanal Forest Ancient Til Trees" loading="lazy">
+              <img src="images/slide20_fanal.jpg" alt="Fanal Ancient Mist Forest & 500-Year-Old Til Trees" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">UNESCO LAURISSILVA</div>
                 <div class="media-title">The Twisted Giants of Fanal</div>
@@ -70,7 +70,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1559827291-72ee739d0d9a?auto=format&fit=crop&w=1200&q=80" alt="Porto Moniz Lava Pools" loading="lazy">
+              <img src="images/slide21_portomoniz.jpg" alt="Porto Moniz Natural Volcanic Lava Rock Pools" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">VOLCANIC POOLS</div>
                 <div class="media-title">Porto Moniz: Ocean Basalt Basins</div>
@@ -114,7 +114,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80" alt="Porto Moniz Sunset Hotel" loading="lazy">
+              <img src="images/slide22_seixal.jpg" alt="Seixal Black Sand Beach & Coastal Mountain Waterfalls" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">NIGHT 5 HAVEN</div>
                 <div class="media-title">Northwest Ocean Sentinel</div>
@@ -157,7 +157,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=1200&q=80" alt="25 Fontes Waterfall Lagoon" loading="lazy">
+              <img src="images/slide23_25fontes.jpg" alt="Levada das 25 Fontes Lush Spring Gorge (PR6)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR6 RABAÇAL</div>
                 <div class="media-title">The 25 Spring Cascades</div>
@@ -200,7 +200,7 @@ def get_slides_act4():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315?auto=format&fit=crop&w=1200&q=80" alt="Cabo Girao Cliffs" loading="lazy">
+              <img src="images/slide24_cabogirao.jpg" alt="Cabo Girão 1,932 ft Clifftop Skywalk" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">CLIFF ARCHITECTURE</div>
                 <div class="media-title">1,932 Feet Over the Atlantic</div>

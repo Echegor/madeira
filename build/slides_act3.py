@@ -28,7 +28,7 @@ def get_slides_act3():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1200&q=80" alt="Pico do Arieiro Ridge Trek" loading="lazy">
+              <img src="images/slide14_pr1.jpg" alt="Pico do Arieiro to Pico Ruivo Knife-Edge Ridge Trail (PR1)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR1 MASTER RIDGE</div>
                 <div class="media-title">Walking on the Roof of Madeira</div>
@@ -120,7 +120,7 @@ def get_slides_act3():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=1200&q=80" alt="Quinta do Furao Ocean View" loading="lazy">
+              <img src="images/slide16_quintafurao.jpg" alt="Quinta do Furão Cliffside Estate & Santana Coastline" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">NORTH COAST SANCTUARY</div>
                 <div class="media-title">Perched on the Atlantic Cliff Edge</div>
@@ -163,7 +163,7 @@ def get_slides_act3():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1200&q=80" alt="Caldeirao Verde Waterfall" loading="lazy">
+              <img src="images/slide17_caldeirao.jpg" alt="Levada do Caldeirão Verde Canyon Trail (PR9)" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">PR9 EMERALD CANYON</div>
                 <div class="media-title">Caldeirão Verde: 330-Foot Cascade</div>
@@ -206,7 +206,7 @@ def get_slides_act3():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80" alt="Santana Thatched Houses" loading="lazy">
+              <img src="images/slide18_santana.jpg" alt="Casas Típicas de Santana Traditional Thatched Cottages" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">FOLK ARCHITECTURE</div>
                 <div class="media-title">Madeira's Iconic Triangular Cottages</div>
@@ -249,7 +249,7 @@ def get_slides_act3():
             </div>
 
             <div class="editorial-media">
-              <img src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&q=80" alt="North Atlantic Waves" loading="lazy">
+              <img src="images/slide19_saovicente.jpg" alt="São Vicente Rugged North Coast Volcanic Cliffs" loading="lazy">
               <div class="media-overlay">
                 <div class="media-badge">NORTH SHORE</div>
                 <div class="media-title">Thunder of the North Atlantic</div>
