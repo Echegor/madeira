@@ -18,11 +18,12 @@ def get_slides_act2():
               <div class="card-label">Day 1 Tactical Schedule</div>
               <h3 class="card-heading">Arrival Flow & Old Town Discovery</h3>
               <ul class="highlight-list">
-                <li><strong>10:30 AM – 11:30 AM: Touchdown at FNC:</strong> Scenic descent past Ponta de São Lourenço onto the ocean stilt runway of Cristiano Ronaldo Airport (Santa Cruz). Seamless luggage collection.</li>
-                <li><strong>11:30 AM – 12:15 PM: Rental Car Collection:</strong> Pick up compact turbo hatchback at the terminal depot. Confirm mountain climbing torque and hill-assist functionality.</li>
-                <li><strong>12:30 PM – 13:00 PM: Scenic Expressway Transit:</strong> 12-mile (19.5 km) drive west on the VR1 coastal expressway (20 min), popping through tunnels with sparkling Atlantic ocean panoramas directly into central Funchal.</li>
-                <li><strong>14:00 PM – 17:30 PM: Historic Old Town Walk (Zona Velha):</strong> Stroll along the historic cobblestones of <em>Rua de Santa Maria</em>, discovering the celebrated "Portas Pintadas" (painted art doors on heritage homes).</li>
-                <li><strong>Mercado dos Lavradores:</strong> Marvel at traditional tilework, gigantic hanging black scabbard fish (*espada*), and colorful stalls featuring regional passion fruit cultivars (banana, pineapple, and lemon maracujá).</li>
+                <li><strong>1-Stop Transatlantic Flight Flow:</strong> Depart US gateway (EWR/JFK/BOS) on TAP Air Portugal evening flight (e.g. TP202/TP224) ➔ <strong>Single connection at Lisbon (LIS)</strong> (1h 50m layover, clear EU passport control) ➔ Connect to 1h 45m domestic hopper (TP1689) landing directly at FNC. Exactly 1 stop.</li>
+                <li><strong>Baggage Check-Through & Poles:</strong> Checked luggage transfers automatically at Lisbon straight to FNC. <em>Aviation Security Rule:</em> Metal-tipped trekking poles are prohibited in carry-on bags—must be packed in checked bags or purchased at Decathlon Funchal (~€15).</li>
+                <li><strong>10:30 AM – 11:30 AM: Touchdown at FNC:</strong> Scenic descent past Ponta de São Lourenço onto the ocean stilt runway of Cristiano Ronaldo Airport. Seamless baggage claim and customs.</li>
+                <li><strong>11:30 AM – 12:15 PM: Rental Car Collection:</strong> Pick up compact turbo hatchback at terminal depot. Confirm mountain climbing torque and hill-assist functionality.</li>
+                <li><strong>12:30 PM – 13:00 PM: Scenic VR1 Transit:</strong> 12-mile (19.5 km) drive west on the VR1 expressway (20 min) through tunnels with ocean views directly into central Funchal.</li>
+                <li><strong>14:00 PM – 17:30 PM: Historic Old Town Walk:</strong> Stroll the cobblestones of <em>Rua de Santa Maria</em>, discovering painted heritage doors, tilework, and Mercado dos Lavradores fresh fruit stalls.</li>
               </ul>
             </div>
 

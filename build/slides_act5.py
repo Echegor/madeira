@@ -148,12 +148,12 @@ def get_slides_act5():
               <div class="card-label">Civil Engineering Marvel</div>
               <h3 class="card-heading">The Stilt Runway of Santa Cruz</h3>
               <ul class="highlight-list">
+                <li><strong>1-Stop Return Flight Flow:</strong> Depart FNC on morning TAP hop (e.g. TP1686/TP1690) ➔ <strong>Single connection at Lisbon (LIS)</strong> (3h 30m layover, exit Schengen passport control, seamless through-checked bags) ➔ TAP transatlantic leg (TP201/TP203) directly to US gateway (EWR/JFK/BOS). Exactly 1 stop.</li>
                 <li><strong>The 180 Concrete Pillars:</strong> Completed in 2000, FNC's runway extension added 3,280 feet (1,000 meters) of tarmac cantilevered directly over the Atlantic Ocean on 180 reinforced concrete pillars, some rising 230 feet (70m) high (winner of the IABSE Outstanding Structure Award).</li>
                 <li><strong>Special Pilot Certification:</strong> Madeira’s crosswind patterns require aircraft captains to hold special category-C simulator training and direct certification for the curved visual approach.</li>
                 <li><strong>Wind Check Protocols:</strong> Before heading to the airport, monitor Santa Cruz METAR wind data and the live flight radar feed on your phone. Morning departure banks typically enjoy calm trade winds.</li>
-                <li><strong>Crosswind Connection Buffer:</strong> FNC experiences occasional wind-shear diversions (diverting to Porto Santo or Lisbon). Never book tight same-day transatlantic flights out of Lisbon with under a 4-hour layover window.</li>
+                <li><strong>Crosswind Connection Buffer:</strong> FNC experiences occasional wind-shear diversions. The 3.5-hour scheduled layover at Lisbon guarantees you never miss your US-bound transatlantic connection.</li>
                 <li><strong>Terminal Logistics:</strong> 10-mile (15-minute) smooth drive east from Funchal on VR1. Rental car return depot is located adjacent to the terminal entrance with easy key drop.</li>
-                <li><strong>Last-Minute Regional Treats:</strong> Pick up traditional <em>Bolo de Mel de Cana</em> (Madeiran sugarcane honey spice cake) and vacuum-sealed <em>Queijadas</em> in the departures hall before boarding.</li>
               </ul>
             </div>
 
@@ -223,9 +223,9 @@ def get_slides_act5():
                 </thead>
                 <tbody>
                   <tr style="border-bottom: 1px solid var(--border-subtle);">
-                    <td style="padding: 8px 10px; font-weight: 700; color: var(--text-title);">Flight Logistics</td>
-                    <td style="padding: 8px 10px; color: var(--sand-muted);">Return flights for 2 passengers (Lisbon/US feeder connection to FNC)</td>
-                    <td style="padding: 8px 10px; text-align: right; font-family: var(--font-mono); font-weight: 700; color: var(--text-title);">€550</td>
+                    <td style="padding: 8px 10px; font-weight: 700; color: var(--text-title);">1-Stop Flights (US ⇄ FNC)</td>
+                    <td style="padding: 8px 10px; color: var(--sand-muted);">TAP Air Portugal 1-Stop return flights for 2 pax (EWR/JFK/BOS ⇄ LIS ⇄ FNC, 1 checked bag each: ~$1,500 USD / ~€1,380) • <em>Domestic/EU feeder alternative: ~€550</em></td>
+                    <td style="padding: 8px 10px; text-align: right; font-family: var(--font-mono); font-weight: 700; color: var(--text-title);">€1,380 <span style="font-size: 0.72rem; color: var(--sand-muted); font-weight: 400;">(~$1,500)</span></td>
                   </tr>
                   <tr style="border-bottom: 1px solid var(--border-subtle);">
                     <td style="padding: 8px 10px; font-weight: 700; color: var(--text-title);">Lodging Standard</td>
@@ -254,22 +254,22 @@ def get_slides_act5():
                   </tr>
                   <tr style="background: var(--terracotta-soft); font-weight: 700;">
                     <td style="padding: 10px 10px; color: var(--gold-glow); font-size: 1.05rem;">GRAND EXPEDITION TOTAL</td>
-                    <td style="padding: 10px 10px; color: var(--text-title);">All-inclusive ground + air logistics for 2 guests combined (Zero per-person splitting)</td>
-                    <td style="padding: 10px 10px; text-align: right; font-family: var(--font-serif); font-size: 1.35rem; color: var(--gold-primary);">€2,290</td>
+                    <td style="padding: 10px 10px; color: var(--text-title);">All-inclusive ground (€1,740) + 1-Stop US airfare (€1,380) for 2 guests combined (Zero per-person splitting)</td>
+                    <td style="padding: 10px 10px; text-align: right; font-family: var(--font-serif); font-size: 1.35rem; color: var(--gold-primary);">€3,120 <span style="font-size: 0.85rem; color: var(--sand-muted); font-family: var(--font-sans); font-weight: 400;">(~$3,390 USD)</span></td>
                   </tr>
                 </tbody>
               </table>
             </div>
 
             <div style="font-family: var(--font-mono); font-size: 0.76rem; color: var(--sand-muted); margin-top: 10px; line-height: 1.45;">
-              💡 <strong>Portuguese Tipping Reality:</strong> By law, service is legally included in all prices. Waiters receive contracted wages. Percentage tipping does not exist; leaving €1–€2 coin rounding for friendly dinner service is purely voluntary.
+              💡 <strong>Airfare Clarity:</strong> All-in total from US with 1-stop transatlantic flights is <strong>€3,120 (~$3,390 USD)</strong> for two. If originating within Europe or using airline miles (LIS ⇄ FNC feeder hopper only at €550), grand total is <strong>€2,290 (~$2,495 USD)</strong> for two.
             </div>
           </div>
         </div>
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
           <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            FINANCIAL RULE: STRICT SHARED LEDGER FOR 2 GUESTS COMBINED • €1,740 GROUND + €550 FLIGHTS
+            FINANCIAL RULE: STRICT SHARED LEDGER FOR 2 GUESTS COMBINED • €1,740 GROUND + €1,380 1-STOP AIRFARE
           </div>
           <div class="tag tag-gold">MASTER LEDGER</div>
         </div>
