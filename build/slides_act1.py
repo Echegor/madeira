@@ -314,8 +314,8 @@ def get_slides_act1():
         </div>
 
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 1.2rem;">
-          <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--sand-muted);">
-            CIVIL ENGINEERING: 150+ MODERN TUNNELS MAKE CROSS-ISLAND DRIVING FAST & SAFE
+          <div style="font-family: var(--font-mono); font-size: 0.82rem; color: var(--sand-muted);">
+            ⚠️ <strong>REDDIT / LOCAL DRIVING RULE:</strong> Beware the Google Maps Trap—stick to VR, VE & painted ER roads; avoid unpainted rural alleys. Uphill traffic has legal right of way.
           </div>
           <div class="tag tag-gold">DRIVING ARCHITECTURE</div>
         </div>
@@ -347,17 +347,18 @@ def get_slides_act1():
 
             <div class="glass-card gold-trim">
               <div class="card-label">Official ICNF Conservation Permits</div>
-              <h3 class="card-heading">The €3/Trail Simplifica Permit System</h3>
+              <h3 class="card-heading">The 2026 Simplifica Permit Framework</h3>
               <ul class="highlight-list">
-                <li><strong>Mandatory PR Trail Permits:</strong> The Regional Government (ICNF) mandates a €3 permit fee per non-resident hiker across classified trails (PR1, PR1.2, PR6, PR8, PR9, PR11).</li>
-                <li><strong>Advance Online Purchase:</strong> Buy permits via <em>simplifica.madeira.gov.pt</em>. Save digital PDF QR codes to your phone's offline wallet (cellular data is zero inside deep canyons!).</li>
-                <li><strong>Field Ranger Inspections:</strong> Uniformed Forestry Police (<em>Polícia Florestal</em>) patrol trailheads and levada entries. Hiking without an official permit carries fines of €50 to €500.</li>
-                <li><strong>Real-Time Trail Status:</strong> Levadas occasionally close due to rockfalls or heavy rains. Always verify active trail status at <em>ifcn.madeira.gov.pt</em> before driving out.</li>
+                <li><strong>PR1 Alpine Ridge (€10.50/person):</strong> Due to high conservation and trail safety mandates, PR1 (Arieiro to Ruivo) requires an advance €10.50 permit with mandatory entry time-slot via <em>simplifica.madeira.gov.pt</em>.</li>
+                <li><strong>Standard PR Levada Trails (€3/person):</strong> Other classified trails (PR8 São Lourenço, PR9 Caldeirão Verde, PR6 25 Fontes) require a standard €3 conservation permit.</li>
+                <li><strong>Advance Online Purchase:</strong> Buy permits online and save QR codes offline to Apple Wallet / photos (zero cell reception in deep mountain valleys!).</li>
+                <li><strong>Field Ranger Inspections:</strong> Uniformed Forestry Police (<em>Polícia Florestal</em>) verify QR codes at trailheads. Hiking without a valid permit incurs fines of €50 to €500.</li>
+                <li><strong>Real-Time Trail Status:</strong> Levadas occasionally close for maintenance or rockfalls. Always verify live status at <em>ifcn.madeira.gov.pt</em> before driving out.</li>
               </ul>
               <div class="property-pill" style="margin-top: 1rem;">
-                <div style="font-family: var(--font-mono); font-size: 0.74rem; color: var(--gold-glow); text-transform: uppercase;">Permit Allocation for 2 Hikers</div>
-                <div style="font-size: 1.15rem; font-weight: 700; color: var(--text-title); margin-top: 2px;">5 PR Trails × €3 = €30 Total Shared Permit Cost</div>
-                <div style="font-size: 0.78rem; color: var(--sand-muted);">Includes PR1 Arieiro-Ruivo, PR8 São Lourenço, PR9 Caldeirão Verde, PR6 25 Fontes, and PR1.2 Teixeira</div>
+                <div style="font-family: var(--font-mono); font-size: 0.74rem; color: var(--gold-glow); text-transform: uppercase;">Total Permit Allocation (2 Hikers)</div>
+                <div style="font-size: 1.15rem; font-weight: 700; color: var(--text-title); margin-top: 2px;">€39 Total Shared Permit Cost (2 Pax)</div>
+                <div style="font-size: 0.78rem; color: var(--sand-muted);">PR1 (€10.50 × 2 = €21) + PR8, PR9, PR6 (€3 × 2 = €18) • Strict ranger enforcement</div>
               </div>
             </div>
           </div>

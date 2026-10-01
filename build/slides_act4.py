@@ -21,6 +21,7 @@ def get_slides_act4():
                 <li><strong>High Volcanic Plateau (3,770 ft / 1,150m):</strong> Drive up ER209 through misty cattle pastures to Posto Florestal Fanal. Free parking and open pedestrian access across the ancient volcanic crater.</li>
                 <li><strong>500-Year-Old Til Trees:</strong> Gigantic, twisted specimen trees (<em>Ocotea foetens</em>) pre-dating Portuguese colonization in the 1400s, with gnarled branches covered in thick green moss and hanging lichens.</li>
                 <li><strong>The Fog Phenomena:</strong> As trade winds crest the plateau, thick tendrils of white mist envelop the grove within minutes, transforming the forest into an otherworldly, silent fantasy landscape.</li>
+                <li><strong>Reddit Live Webcam Protocol:</strong> Fanal is magical <em>only</em> when shrouded in swirling cloud mist; in direct sun, it looks like ordinary cattle pasture. Always check the live <em>Madeira-Web / Netcams</em> Paul da Serra webcam over breakfast before driving up!</li>
                 <li><strong>Gentle Pastoral Encounters:</strong> Docile, free-roaming mountain cattle graze peacefully between the mossy trunks, completely unbothered by hikers.</li>
                 <li><strong>Short Walks:</strong> Combine the open grove exploration with a 2.5 to 5.0 mile (4–8 km) stroll along PR14 (Levada dos Cedros) or the crater rim viewpoint (Miradouro do Fanal) overlooking the north coast.</li>
               </ul>
@@ -61,10 +62,10 @@ def get_slides_act4():
               <div class="card-label">Afternoon Coastal Immersion</div>
               <h3 class="card-heading">Basalt Pools & Cascading Waterfalls</h3>
               <ul class="highlight-list">
-                <li><strong>Porto Moniz Natural Volcanic Pools:</strong> Basalt rock lava formations shaped by thousands of years of pounding surf, filled naturally with filtered Atlantic seawater. Safe steps, paved sun decks, lifeguards, and fresh showers (€3 shared entry).</li>
-                <li><strong>Seixal Black Sand Beach (Praia do Porto do Seixal):</strong> 6 miles (15 minutes) east along the VE2 coastal route. Ultra-fine natural jet-black volcanic sand surrounded by emerald-green vertical cliff walls.</li>
-                <li><strong>The Cliff Waterfall (Poça das Lesmas):</strong> Natural freshwater waterfalls tumble down sheer green rock faces right next to the beach, allowing you to rinse off in fresh mountain spring water right after swimming in the ocean.</li>
-                <li><strong>Coastal Lunch at Seixal:</strong> <em>Lounge Bar Clube Naval do Seixal</em>. Fresh grilled tuna steak with boiled sweet potatoes and garlic bolo do caco, washed down with sparkling <em>Água das Pedras</em>.</li>
+                <li><strong>Porto Moniz Volcanic Pools (€3/pax):</strong> Historic basalt rock formations with filtered Atlantic seawater, paved sun decks, lifeguards, and fresh showers. Ideal for relaxed lounging.</li>
+                <li><strong>Poça das Lesmas (Seixal Lava Arch):</strong> Reddit's top-recommended secret—a wild, free natural volcanic pool framed by a dramatic basalt rock arch with crystal-clear turquoise waters.</li>
+                <li><strong>Praia do Porto do Seixal:</strong> Soft natural jet-black sand surrounded by emerald-green cliffs with waterfalls dropping right into the ocean behind the surf.</li>
+                <li><strong>Coastal Lunch at Seixal:</strong> <em>Lounge Bar Clube Naval do Seixal</em>. Fresh grilled tuna steak with sweet potatoes and warm garlic bolo do caco, washed down with sparkling <em>Brisa Maracujá</em>.</li>
                 <li><strong>Shared Lunch & Pool Entry:</strong> ~€36 – €42 combined total for 2 guests.</li>
               </ul>
             </div>
@@ -148,11 +149,12 @@ def get_slides_act4():
               <div class="card-label">Trail Blueprint & Timing</div>
               <h3 class="card-heading">The Weeping Springs of Rabaçal</h3>
               <ul class="highlight-list">
-                <li><strong>Trailhead:</strong> Rabaçal car park on ER110 (Paúl da Serra plateau). Official ICNF permit required (€3/person booked via Simplifica).</li>
-                <li><strong>The Golden Rule:</strong> Start by 08:00 AM! The 1.2-mile (2.0 km) paved access road descends to Casa do Rabaçal; hiking early allows you to traverse the narrow 2-foot levada retaining walls before guided tour bus crowds arrive at 10:30 AM.</li>
-                <li><strong>Trail Metrics:</strong> 6.2 miles loop (10.0 km including Risco spur) • +1,150 ft / -1,150 ft (+350m / -350m) cumulative climb • 3.5 – 4.0 hours duration.</li>
-                <li><strong>Cascata do Risco (PR6.1):</strong> An easy 0.6-mile (1.0 km) detour along Levada do Risco leads to a viewing balcony overlooking a stunning 330-foot (100-meter) two-tiered vertical waterfall plunging into the green valley.</li>
-                <li><strong>Lagoa das 25 Fontes:</strong> Levada das 25 Fontes winds through ancient tree heather tunnels to an intimate rock basin fed by dozens of natural spring waterfalls weeping through lush moss and ferns.</li>
+                <li><strong>Trailhead & Shuttle Van:</strong> Rabaçal car park on ER110 (Paúl da Serra). Official ICNF permit (€3/person via Simplifica). <em>Pro-Tip:</em> Ride the municipal green shuttle minibus (€3) down/up the steep 1.2-mile paved access road to save your knees for the dirt trail!</li>
+                <li><strong>Timing Strategy:</strong> Hit the trail before 08:30 AM to beat tour mini-buses on the narrow single-file levada walls.</li>
+                <li><strong>Trail Metrics:</strong> 6.2 miles loop (10.0 km including Risco spur) • +1,150 ft / -1,150 ft (+350m / -350m) climb • 3.5 – 4.0 hours duration.</li>
+                <li><strong>Cascata do Risco (PR6.1):</strong> Easy 0.6-mile (1.0 km) detour along Levada do Risco to a balcony overlooking a roaring 330-foot (100m) two-tier waterfall.</li>
+                <li><strong>Lagoa das 25 Fontes:</strong> Circular volcanic amphitheater weeping with dozens of natural spring waterfalls through lush moss.</li>
+                <li><strong>Reddit Crowd-Bypass Secret:</strong> If 25 Fontes is crowded, detour onto <strong>PR6.2 Levada do Alecrim</strong> or hike up to <strong>Lagoa do Vento</strong> for a peaceful, solitary swimming lagoon.</li>
               </ul>
             </div>
 

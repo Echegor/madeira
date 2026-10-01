@@ -9,7 +9,7 @@ def get_slides_act3():
         <div class="slide-eyebrow">Day 3 High Alpine • The Crown Jewel Ridge</div>
         <h2 class="slide-title">PR1: Pico do Arieiro to Pico Ruivo Ridge Traverse</h2>
         <p class="slide-subtitle">
-          7.5 miles (12.0 km) of high-altitude volcanic drama—walking across knife-edge ridges, hand-chiseled cliff tunnels, and vertical steel staircases above a sea of clouds.
+          6.2 miles (10.0 km) of high-altitude volcanic drama—walking across knife-edge ridges, hand-chiseled cliff tunnels, and vertical steel staircases above a sea of clouds.
         </p>
 
         <div class="content-area">
@@ -18,12 +18,12 @@ def get_slides_act3():
               <div class="card-label">Trail Breakdown & Key Segments</div>
               <h3 class="card-heading">The Atlantic's Master Mountain Trek</h3>
               <ul class="highlight-list">
-                <li><strong>Start Point:</strong> Pico do Arieiro radar dome at 5,965 ft (1,818m). Official ICNF permit (€3/person) strictly required and checked at the gate.</li>
-                <li><strong>Trail Metrics:</strong> 7.5 miles out-and-back (12.0 km) • +3,450 ft / -3,450 ft (+1,050m / -1,050m) cumulative elevation • 5.0 – 6.0 hours strenuous hiking.</li>
+                <li><strong>Strict One-Way Mandate:</strong> By IFCN regulation, PR1 is strictly one-way (Arieiro ➔ Ruivo). Return hiking back to Arieiro is prohibited to prevent dangerous bottlenecks on narrow cliff staircases.</li>
+                <li><strong>Start Point & Permit:</strong> Pico do Arieiro radar dome at 5,965 ft (1,818m). Official ICNF permit (€10.50/person) and time-slot booking strictly required via <em>simplifica.madeira.gov.pt</em>.</li>
+                <li><strong>Traverse Metrics:</strong> 6.2 miles one-way to Achada do Teixeira (10.0 km) • +2,450 ft / -3,100 ft (+750m / -950m) elevation • 4.5 – 5.5 hours strenuous alpine traverse.</li>
                 <li><strong>Ninho da Manta (Buzzard's Nest):</strong> Spectacular stone balcony jutting out over the sheer 3,300-foot (1,000m) abyss of the Ribeira da Fajã da Nogueira valley.</li>
-                <li><strong>Pedra Rija & The Stairways:</strong> Dizzying narrow path along the razor-thin volcanic crest followed by near-vertical steel staircases descending into the shadow of Pico das Torres.</li>
-                <li><strong>Carved Basalt Cliff Tunnels:</strong> Four tunnels bored straight through basalt needles (headlamp required; wet stone footing).</li>
-                <li><strong>Pico Ruivo Summit (6,109 ft / 1,862m):</strong> The highest point in Madeira! 360-degree panorama of the entire volcanic archipelago floating on clouds.</li>
+                <li><strong>Pedra Rija & Basalt Stairways:</strong> Razor-thin volcanic crest followed by near-vertical steel staircases descending into the shadow of Pico das Torres.</li>
+                <li><strong>Pico Ruivo Summit (6,109 ft / 1,862m):</strong> Madeira's highest peak! 360-degree panorama of the volcanic island floating on cloud inversions, followed by PR1.2 descent to Teixeira.</li>
               </ul>
             </div>
 
@@ -62,25 +62,26 @@ def get_slides_act3():
               <div class="card-label">Field Timing & Sunrise Protocol</div>
               <h3 class="card-heading">Miradouro do Juncal Sunrise Master Plan</h3>
               <ul class="highlight-list">
-                <li><strong>06:15 AM Drive from Coast:</strong> 18-mile (40-minute) drive from Machico up ER103 and ER202 to the Pico do Arieiro upper lot at 5,965 ft. Warm layers and headlamps ready.</li>
-                <li><strong>07:00 AM – 07:35 AM Sunrise Spectacle:</strong> Short 10-minute walk east from the parking area to Miradouro do Juncal. Watch golden dawn light ignite the sea of clouds and eastern volcanic ridges.</li>
-                <li><strong>Parking Regulations:</strong> The upper lot fills completely before 07:15 AM. Paid parking zones monitored by cameras. Arriving early guarantees a legal designated parking stall.</li>
-                <li><strong>Early Trail Entry:</strong> Stepping onto PR1 immediately after sunrise (07:45 AM) lets you hike the narrowest staircases and tunnels in tranquil solitude before tour crowds arrive at 10:00 AM.</li>
+                <li><strong>06:15 AM Drive to Summit:</strong> 18-mile (40-minute) drive up ER103/ER202 to Pico do Arieiro (5,965 ft). Cold-weather layers and headlamps on before stepping out.</li>
+                <li><strong>07:00 AM – 07:35 AM Sunrise Spectacle:</strong> 10-minute walk east from the parking area to Miradouro do Juncal. Watch dawn light ignite the sea of clouds and eastern volcanic ridges.</li>
+                <li><strong>Parking Overhaul:</strong> The upper radar lot now has paid hourly rates (€2–€4/hr) and strict short-stay limits. Long-stay hikers park at the lower CAM Florestal lot and take the frequent €1.20 Horários do Funchal shuttle to the peak.</li>
+                <li><strong>Early Trail Entry:</strong> Entering PR1 by 07:45 AM avoids the large midday tour groups and secures tranquil ridge walking.</li>
               </ul>
             </div>
 
             <div class="glass-card gold-trim">
-              <div class="card-label">Route Logistics Decision</div>
-              <h3 class="card-heading">Out-and-Back vs One-Way Traverse</h3>
+              <div class="card-label">Strategic Route Execution</div>
+              <h3 class="card-heading">The Reddit "Reverse-Parking" Master Strategy</h3>
               <ul class="highlight-list">
-                <li><strong>Option A: Full Out-and-Back (7.5 miles / 12.0 km, 5.5–6h):</strong> Hike Arieiro → Ruivo → Arieiro. Requires extreme leg endurance for the return staircases up Torres/Arieiro (+3,450 ft / +1,050m), but 100% free with your rental car waiting at the start.</li>
-                <li><strong>Option B: One-Way Traverse to Achada do Teixeira (4.5 miles / 7.2 km, 3.5h):</strong> From Pico Ruivo summit, descend 1.7 miles (2.8 km) along PR1.2 down to Achada do Teixeira parking lot. Eliminates the brutal return stair climb.</li>
-                <li><strong>Taxi Return Transfer:</strong> Pre-book a licensed mountain taxi from Achada do Teixeira back to your car at Pico do Arieiro (~€45 – €55 combined total, 45-min transit). Ideal if pacing energy.</li>
+                <li><strong>The Problem:</strong> Because PR1 is strictly one-way to Achada do Teixeira, parking at Arieiro leaves you stranded after 5 hours of hiking, competing with exhausted crowds for scarce €50+ taxis back.</li>
+                <li><strong>The Reverse Hack (Recommended):</strong> Drive your rental car to <strong>Achada do Teixeira</strong> early in the morning. Meet a pre-booked taxi/shuttle there to drive you up to Pico do Arieiro for sunrise.</li>
+                <li><strong>The Big Payoff:</strong> You hike PR1 across Ruivo and descend PR1.2 directly to your own waiting car! Zero post-hike stress, drive immediately to your North Coast quinta.</li>
+                <li><strong>Pre-Booked Transfer Cost:</strong> ~€45 – €55 combined for 2 passengers (licensed mountain taxi or dedicated hiker transfer).</li>
               </ul>
               <div class="field-alert" style="margin-top: 0.8rem; padding: 0.9rem 1.1rem;">
-                <div class="field-alert-icon">⚠️</div>
+                <div class="field-alert-icon">💡</div>
                 <div class="field-alert-text" style="font-size: 0.92rem; line-height: 1.45;">
-                  Bring at least 50 oz (1.5L) water per person; the mountain refuge at Ruivo (<em>Casa de Abrigo</em>) has limited opening hours and cash-only snacks.
+                  <strong>Pro-Tip:</strong> The mountain refuge at Ruivo (<em>Casa de Abrigo</em>) is cash-only for bottled water and hot coffee. Pack 50 oz (1.5L) water per hiker from the start.
                 </div>
               </div>
             </div>

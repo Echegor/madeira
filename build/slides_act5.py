@@ -151,6 +151,7 @@ def get_slides_act5():
                 <li><strong>The 180 Concrete Pillars:</strong> Completed in 2000, FNC's runway extension added 3,280 feet (1,000 meters) of tarmac cantilevered directly over the Atlantic Ocean on 180 reinforced concrete pillars, some rising 230 feet (70m) high (winner of the IABSE Outstanding Structure Award).</li>
                 <li><strong>Special Pilot Certification:</strong> Madeira’s crosswind patterns require aircraft captains to hold special category-C simulator training and direct certification for the curved visual approach.</li>
                 <li><strong>Wind Check Protocols:</strong> Before heading to the airport, monitor Santa Cruz METAR wind data and the live flight radar feed on your phone. Morning departure banks typically enjoy calm trade winds.</li>
+                <li><strong>Crosswind Connection Buffer:</strong> FNC experiences occasional wind-shear diversions (diverting to Porto Santo or Lisbon). Never book tight same-day transatlantic flights out of Lisbon with under a 4-hour layover window.</li>
                 <li><strong>Terminal Logistics:</strong> 10-mile (15-minute) smooth drive east from Funchal on VR1. Rental car return depot is located adjacent to the terminal entrance with easy key drop.</li>
                 <li><strong>Last-Minute Regional Treats:</strong> Pick up traditional <em>Bolo de Mel de Cana</em> (Madeiran sugarcane honey spice cake) and vacuum-sealed <em>Queijadas</em> in the departures hall before boarding.</li>
               </ul>
@@ -238,7 +239,7 @@ def get_slides_act5():
                   </tr>
                   <tr style="border-bottom: 1px solid var(--border-subtle);">
                     <td style="padding: 8px 10px; font-weight: 700; color: var(--text-title);">Trail Permits & Activities</td>
-                    <td style="padding: 8px 10px; color: var(--sand-muted);">ICNF permits (5 PR trails) + Porto Moniz pools + Monte Palace gardens + Monte wicker sledge</td>
+                    <td style="padding: 8px 10px; color: var(--sand-muted);">ICNF permits (€10.50 PR1 + €3 PR8/PR9/PR6) + Porto Moniz pools + Monte Palace + Monte wicker sledge</td>
                     <td style="padding: 8px 10px; text-align: right; font-family: var(--font-mono); font-weight: 700; color: var(--text-title);">€165</td>
                   </tr>
                   <tr style="border-bottom: 1px solid var(--border-subtle);">
@@ -303,11 +304,11 @@ def get_slides_act5():
               <div class="card-label">Offline Digital Toolkit</div>
               <h3 class="card-heading">Essential Mobile Applications</h3>
               <ul class="highlight-list">
-                <li><strong>Maps.me / Organic Maps:</strong> Download the offline Madeira vector map package. Vital for tracking narrow levadas when deep canyons block GPS/cellular data.</li>
-                <li><strong>AllTrails Pro / Wikiloc:</strong> Pre-download offline topo maps and GPX routes for PR1, PR6, PR8, and PR9 before leaving your hotel Wi-Fi.</li>
-                <li><strong>Netmadeira Webcams:</strong> Bookmark <em>netmadeira.com/webcams</em> on your smartphone homescreen for 1-tap live checks of summit peaks.</li>
-                <li><strong>Windy.com App:</strong> Set to ECMWF / AROME high-resolution model for accurate summit wind gust and cloud altitude forecasts.</li>
-                <li><strong>Simplifica Portal:</strong> Save offline screenshot images of your €3 ICNF trail permit QR codes in Apple Wallet or camera roll for ranger checks.</li>
+                <li><strong>Maps.me / Organic Maps:</strong> Download offline Madeira vector map package. Essential when deep canyons block cellular data.</li>
+                <li><strong>AllTrails Pro / Wikiloc:</strong> Pre-download offline topo maps and GPX routes for PR1, PR6, PR8, and PR9 before leaving hotel Wi-Fi.</li>
+                <li><strong>Netcams / Madeira-Web:</strong> Bookmark <em>netmadeira.com/webcams</em> for 1-tap live checks of Arieiro cloud inversions and Fanal fog.</li>
+                <li><strong>Windy.com App:</strong> Use ECMWF / AROME high-resolution models for accurate summit wind gust and FNC airport crosswind forecasts.</li>
+                <li><strong>Simplifica Portal:</strong> Save offline screenshot QR codes of your €10.50 PR1 and €3 levada permits for ranger checks.</li>
               </ul>
             </div>
           </div>
