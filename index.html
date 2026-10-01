@@ -2064,7 +2064,7 @@
         <div class="slide-eyebrow">Island Cartography & Waypoint Command</div>
         <h2 class="slide-title">Interactive Madeira Cartography & Trail Dispatch</h2>
         <p class="slide-subtitle">
-          Click or tap any waypoint below or scrub the island map to inspect premier PR trailheads, distances in miles and km, vertical gain in feet, and verified GPS links.
+          <strong>How Madeira Works:</strong> This is a <strong>road-trip expedition with a rental car</strong>, <em>not</em> a continuous backpacking thru-hike across the island. The dashed line marks the island's 6,000-ft volcanic weather divide. Each day you drive 25–40 minutes to an iconic standalone day-hike (peaks, levadas, cloud forests, lava pools), returning to comfortable inns and seaside feasts each evening.
         </p>
 
         <div class="content-area">
@@ -2081,7 +2081,7 @@
 
           <div class="grid-2col">
             <div class="glass-card gold-trim interactive-trail-box" style="padding: 1.4rem;">
-              <div class="card-label">Interactive Island Radar</div>
+              <div class="card-label">Interactive Island Radar (Hub-and-Spoke Day Hikes)</div>
               
               <svg id="interactiveTrailSvg" viewBox="0 0 700 320" style="width: 100%; height: auto; max-height: 290px; filter: drop-shadow(0 8px 24px rgba(0,0,0,0.12));" xmlns="http://www.w3.org/2000/svg">
                 <defs>
@@ -2106,6 +2106,7 @@
                       stroke-width="1.8" 
                       stroke-dasharray="4,4" 
                       opacity="0.6" />
+                <text x="360" y="125" text-anchor="middle" font-family="var(--font-mono)" font-size="7.5" fill="var(--sand-muted)" letter-spacing="1">▲ CENTRAL MOUNTAIN SPINE (WEATHER DIVIDE — NOT A CONTINUOUS TRAIL)</text>
 
                 <!-- Node 0: Master Overview / Funchal Hub -->
                 <g class="map-node active" data-stage="0" onclick="window.selectMapStage(0)" style="cursor: pointer;">
@@ -3792,14 +3793,14 @@
       const stageData = [
         {
           id: 0,
-          label: "Master Island Overview",
-          title: "Madeira Alpine & Coastal Route (68.5 km / 42.5 mi)",
-          desc: "High volcanic ridges above cloud seas, emerald levada gorges, ancient laurel mist forests, and volcanic lava basins across 4 distinct microclimates.",
-          distance: "68.5 km (42.5 mi) across 5 Premier PR Trails",
-          elevation: "+3,450 m (+11,320 ft) Cumulative Ascent",
-          route: "Arieiro-Ruivo (PR1), Caldeirão Verde (PR9), 25 Fontes (PR6), São Lourenço (PR8)",
-          lodging: "Clean, Quiet 3★/4★ Inns, Boutique Hotels & Historic Quintas",
-          transfer: "Compact Turbo Rental Car • Full Island Expressway Network",
+          label: "Master Expedition Blueprint (Hub-and-Spoke Road Trip)",
+          title: "8-Day Island Expedition: 5 Premier Standalone Day-Hikes",
+          desc: "Madeira is NOT a continuous cross-island thru-hike. The dashed line is the central 6,000-ft volcanic weather divide. You travel by rental car to 5 distinct standalone day-hikes, returning to comfortable inns and seaside towns each night!",
+          distance: "42.5 mi (68.5 km) total across 5 day-hikes (4 to 7 mi / day)",
+          elevation: "+11,320 ft (+3,450 m) cumulative vertical gain across the week",
+          route: "Day 1: Funchal • Day 2: PR8 São Lourenço • Day 3: PR1 Sunrise Ridge • Day 4: PR9 Levada • Day 5: Fanal & Pools • Day 6: PR6 25 Fontes • Day 7: Monte Gardens • Day 8: Depart",
+          lodging: "Private 3★/4★ Boutique Inns & Historic Quintas with breakfast",
+          transfer: "Rental Car (Manual Turbo) • Modern highway tunnel network connects all hubs in 20–40 min",
           alltrailsLink: "https://www.alltrails.com/portugal/madeira",
           gmapLink: "https://www.google.com/maps/dir/Funchal/Santana/Porto+Moniz/Funchal"
         },
